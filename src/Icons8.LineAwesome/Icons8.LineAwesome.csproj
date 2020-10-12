@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\la-brands-400.ttf" />
+    <None Remove="Resources\la-regular-400.ttf" />
+    <None Remove="Resources\la-solid-900.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\la-brands-400.ttf" />
+    <EmbeddedResource Include="Resources\la-regular-400.ttf" />
+    <EmbeddedResource Include="Resources\la-solid-900.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1534" />
+  </ItemGroup>
+
+</Project>
