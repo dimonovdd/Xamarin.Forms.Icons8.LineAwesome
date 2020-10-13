@@ -1,6 +1,5 @@
+using Icons8.LineAwesome;
 using Xamarin.Forms;
-using Icons8;
-
 
 [assembly: ExportFont("la-regular-400.ttf", Alias = LineAwesomeFont.regular)]
 [assembly: ExportFont("la-solid-900.ttf", Alias = LineAwesomeFont.solid)]

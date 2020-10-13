@@ -8,21 +8,45 @@ Implementation [Icons8 LineAwesome](https://github.com/icons8/line-awesome) For 
 ```
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:icons="clr-namespace:Icons8;assembly=Icons8.LineAwesome"
+             xmlns:icons="clr-namespace:Icons8.LineAwesome;assembly=Icons8.LineAwesome"
              x:Class="LineAwesome.Sample.MainPage"
              BackgroundColor="White">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <icons:IconToStringConverter x:Key="iconConv" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
 
     <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
         <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
             <Image.Source>
-                <icons:LineAwesomeSource Icon="Github" IconType="Brand" Color="Black" Size="400" />
+                <icons:IconSolidSource Icon="Heart" Size="100" />
             </Image.Source>
         </Image>
+
         <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
             <Image.Source>
-                <icons:LineAwesomeSource Icon="Heart" IconType="Regular" Color="Red" Size="400" />
+                <icons:IconRegularSource Icon="Heart" Color="Red" Size="100"/>
             </Image.Source>
         </Image>
+
+        <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image.Source>
+                <icons:IconBrandSource Icon="Github" Size="100"/>
+            </Image.Source>
+        </Image>
+
+        <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image.Source>
+                <FontImageSource 
+                        Glyph="{Binding Source={x:Static icons:IconBrand.Git}, Converter={StaticResource iconConv}}"
+                        FontFamily="{x:Static icons:LineAwesomeFont.brand}" Color="Blue" Size="100"/>
+            </Image.Source>
+        </Image>
+
+        <Label Margin="15" HorizontalOptions="Center" VerticalOptions="Center" FontSize="100" TextColor="Green"
+                Text="{Binding Source={x:Static icons:IconRegular.Smile}, Converter={StaticResource iconConv}}" 
+                FontFamily="{x:Static icons:LineAwesomeFont.regular}"/>
     </StackLayout>
 </ContentPage>
 ```

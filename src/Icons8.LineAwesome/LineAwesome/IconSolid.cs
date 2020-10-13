@@ -1,17 +1,8 @@
-﻿using System;
-
-namespace Icons8
+﻿
+namespace Icons8.LineAwesome
 {
-    public enum LineAwesomeGlyph
+    public enum IconSolid
     {
-        /// <summary>la-500px</summary>
-        _500px = '\uf26e',
-        /// <summary>la-accessible-icon</summary>
-        AccessibleIcon = '\uf368',
-        /// <summary>la-accusoft</summary>
-        Accusoft = '\uf369',
-        /// <summary>la-acquisitions-incorporated</summary>
-        AcquisitionsIncorporated = '\uf6af',
         /// <summary>la-ad</summary>
         Ad = '\uf641',
         /// <summary>la-address-book</summary>
@@ -20,20 +11,8 @@ namespace Icons8
         AddressCard = '\uf2bb',
         /// <summary>la-adjust</summary>
         Adjust = '\uf042',
-        /// <summary>la-adn</summary>
-        Adn = '\uf170',
-        /// <summary>la-adobe</summary>
-        Adobe = '\uf778',
-        /// <summary>la-adversal</summary>
-        Adversal = '\uf36a',
-        /// <summary>la-affiliatetheme</summary>
-        Affiliatetheme = '\uf36b',
         /// <summary>la-air-freshener</summary>
         AirFreshener = '\uf5d0',
-        /// <summary>la-airbnb</summary>
-        Airbnb = '\uf834',
-        /// <summary>la-algolia</summary>
-        Algolia = '\uf36c',
         /// <summary>la-align-center</summary>
         AlignCenter = '\uf037',
         /// <summary>la-align-justify</summary>
@@ -42,26 +21,14 @@ namespace Icons8
         AlignLeft = '\uf036',
         /// <summary>la-align-right</summary>
         AlignRight = '\uf038',
-        /// <summary>la-alipay</summary>
-        Alipay = '\uf642',
         /// <summary>la-allergies</summary>
         Allergies = '\uf461',
-        /// <summary>la-amazon</summary>
-        Amazon = '\uf270',
-        /// <summary>la-amazon-pay</summary>
-        AmazonPay = '\uf42c',
         /// <summary>la-ambulance</summary>
         Ambulance = '\uf0f9',
         /// <summary>la-american-sign-language-interpreting</summary>
         AmericanSignLanguageInterpreting = '\uf2a3',
-        /// <summary>la-amilia</summary>
-        Amilia = '\uf36d',
         /// <summary>la-anchor</summary>
         Anchor = '\uf13d',
-        /// <summary>la-android</summary>
-        Android = '\uf17b',
-        /// <summary>la-angellist</summary>
-        Angellist = '\uf209',
         /// <summary>la-angle-double-down</summary>
         AngleDoubleDown = '\uf103',
         /// <summary>la-angle-double-left</summary>
@@ -80,24 +47,10 @@ namespace Icons8
         AngleUp = '\uf106',
         /// <summary>la-angry</summary>
         Angry = '\uf556',
-        /// <summary>la-angrycreative</summary>
-        Angrycreative = '\uf36e',
-        /// <summary>la-angular</summary>
-        Angular = '\uf420',
         /// <summary>la-ankh</summary>
         Ankh = '\uf644',
-        /// <summary>la-app-store</summary>
-        AppStore = '\uf36f',
-        /// <summary>la-app-store-ios</summary>
-        AppStoreIos = '\uf370',
-        /// <summary>la-apper</summary>
-        Apper = '\uf371',
-        /// <summary>la-apple</summary>
-        Apple = '\uf179',
         /// <summary>la-apple-alt</summary>
         AppleAlt = '\uf5d1',
-        /// <summary>la-apple-pay</summary>
-        ApplePay = '\uf415',
         /// <summary>la-archive</summary>
         Archive = '\uf187',
         /// <summary>la-archway</summary>
@@ -132,36 +85,20 @@ namespace Icons8
         ArrowsAltH = '\uf337',
         /// <summary>la-arrows-alt-v</summary>
         ArrowsAltV = '\uf338',
-        /// <summary>la-artstation</summary>
-        Artstation = '\uf77a',
         /// <summary>la-assistive-listening-systems</summary>
         AssistiveListeningSystems = '\uf2a2',
         /// <summary>la-asterisk</summary>
         Asterisk = '\uf069',
-        /// <summary>la-asymmetrik</summary>
-        Asymmetrik = '\uf372',
         /// <summary>la-at</summary>
         At = '\uf1fa',
         /// <summary>la-atlas</summary>
         Atlas = '\uf558',
-        /// <summary>la-atlassian</summary>
-        Atlassian = '\uf77b',
         /// <summary>la-atom</summary>
         Atom = '\uf5d2',
-        /// <summary>la-audible</summary>
-        Audible = '\uf373',
         /// <summary>la-audio-description</summary>
         AudioDescription = '\uf29e',
-        /// <summary>la-autoprefixer</summary>
-        Autoprefixer = '\uf41c',
-        /// <summary>la-avianex</summary>
-        Avianex = '\uf374',
-        /// <summary>la-aviato</summary>
-        Aviato = '\uf421',
         /// <summary>la-award</summary>
         Award = '\uf559',
-        /// <summary>la-aws</summary>
-        Aws = '\uf375',
         /// <summary>la-baby</summary>
         Baby = '\uf77c',
         /// <summary>la-baby-carriage</summary>
@@ -182,8 +119,6 @@ namespace Icons8
         Ban = '\uf05e',
         /// <summary>la-band-aid</summary>
         BandAid = '\uf462',
-        /// <summary>la-bandcamp</summary>
-        Bandcamp = '\uf2d5',
         /// <summary>la-barcode</summary>
         Barcode = '\uf02a',
         /// <summary>la-bars</summary>
@@ -204,16 +139,10 @@ namespace Icons8
         BatteryQuarter = '\uf243',
         /// <summary>la-battery-three-quarters</summary>
         BatteryThreeQuarters = '\uf241',
-        /// <summary>la-battle-net</summary>
-        BattleNet = '\uf835',
         /// <summary>la-bed</summary>
         Bed = '\uf236',
         /// <summary>la-beer</summary>
         Beer = '\uf0fc',
-        /// <summary>la-behance</summary>
-        Behance = '\uf1b4',
-        /// <summary>la-behance-square</summary>
-        BehanceSquare = '\uf1b5',
         /// <summary>la-bell</summary>
         Bell = '\uf0f3',
         /// <summary>la-bell-slash</summary>
@@ -226,24 +155,12 @@ namespace Icons8
         Bicycle = '\uf206',
         /// <summary>la-biking</summary>
         Biking = '\uf84a',
-        /// <summary>la-bimobject</summary>
-        Bimobject = '\uf378',
         /// <summary>la-binoculars</summary>
         Binoculars = '\uf1e5',
         /// <summary>la-biohazard</summary>
         Biohazard = '\uf780',
         /// <summary>la-birthday-cake</summary>
         BirthdayCake = '\uf1fd',
-        /// <summary>la-bitbucket</summary>
-        Bitbucket = '\uf171',
-        /// <summary>la-bitcoin</summary>
-        Bitcoin = '\uf379',
-        /// <summary>la-bity</summary>
-        Bity = '\uf37a',
-        /// <summary>la-black-tie</summary>
-        BlackTie = '\uf27e',
-        /// <summary>la-blackberry</summary>
-        Blackberry = '\uf37b',
         /// <summary>la-blender</summary>
         Blender = '\uf517',
         /// <summary>la-blender-phone</summary>
@@ -252,14 +169,6 @@ namespace Icons8
         Blind = '\uf29d',
         /// <summary>la-blog</summary>
         Blog = '\uf781',
-        /// <summary>la-blogger</summary>
-        Blogger = '\uf37c',
-        /// <summary>la-blogger-b</summary>
-        BloggerB = '\uf37d',
-        /// <summary>la-bluetooth</summary>
-        Bluetooth = '\uf293',
-        /// <summary>la-bluetooth-b</summary>
-        BluetoothB = '\uf294',
         /// <summary>la-bold</summary>
         Bold = '\uf032',
         /// <summary>la-bolt</summary>
@@ -282,8 +191,6 @@ namespace Icons8
         BookReader = '\uf5da',
         /// <summary>la-bookmark</summary>
         Bookmark = '\uf02e',
-        /// <summary>la-bootstrap</summary>
-        Bootstrap = '\uf836',
         /// <summary>la-border-all</summary>
         BorderAll = '\uf84c',
         /// <summary>la-border-none</summary>
@@ -314,10 +221,6 @@ namespace Icons8
         Broom = '\uf51a',
         /// <summary>la-brush</summary>
         Brush = '\uf55d',
-        /// <summary>la-btc</summary>
-        Btc = '\uf15a',
-        /// <summary>la-buffer</summary>
-        Buffer = '\uf837',
         /// <summary>la-bug</summary>
         Bug = '\uf188',
         /// <summary>la-building</summary>
@@ -328,16 +231,12 @@ namespace Icons8
         Bullseye = '\uf140',
         /// <summary>la-burn</summary>
         Burn = '\uf46a',
-        /// <summary>la-buromobelexperte</summary>
-        Buromobelexperte = '\uf37f',
         /// <summary>la-bus</summary>
         Bus = '\uf207',
         /// <summary>la-bus-alt</summary>
         BusAlt = '\uf55e',
         /// <summary>la-business-time</summary>
         BusinessTime = '\uf64a',
-        /// <summary>la-buysellads</summary>
-        Buysellads = '\uf20d',
         /// <summary>la-calculator</summary>
         Calculator = '\uf1ec',
         /// <summary>la-calendar</summary>
@@ -362,8 +261,6 @@ namespace Icons8
         CameraRetro = '\uf083',
         /// <summary>la-campground</summary>
         Campground = '\uf6bb',
-        /// <summary>la-canadian-maple-leaf</summary>
-        CanadianMapleLeaf = '\uf785',
         /// <summary>la-candy-cane</summary>
         CandyCane = '\uf786',
         /// <summary>la-cannabis</summary>
@@ -406,30 +303,6 @@ namespace Icons8
         CashRegister = '\uf788',
         /// <summary>la-cat</summary>
         Cat = '\uf6be',
-        /// <summary>la-cc-amazon-pay</summary>
-        CcAmazonPay = '\uf42d',
-        /// <summary>la-cc-amex</summary>
-        CcAmex = '\uf1f3',
-        /// <summary>la-cc-apple-pay</summary>
-        CcApplePay = '\uf416',
-        /// <summary>la-cc-diners-club</summary>
-        CcDinersClub = '\uf24c',
-        /// <summary>la-cc-discover</summary>
-        CcDiscover = '\uf1f2',
-        /// <summary>la-cc-jcb</summary>
-        CcJcb = '\uf24b',
-        /// <summary>la-cc-mastercard</summary>
-        CcMastercard = '\uf1f1',
-        /// <summary>la-cc-paypal</summary>
-        CcPaypal = '\uf1f4',
-        /// <summary>la-cc-stripe</summary>
-        CcStripe = '\uf1f5',
-        /// <summary>la-cc-visa</summary>
-        CcVisa = '\uf1f0',
-        /// <summary>la-centercode</summary>
-        Centercode = '\uf380',
-        /// <summary>la-centos</summary>
-        Centos = '\uf789',
         /// <summary>la-certificate</summary>
         Certificate = '\uf0a3',
         /// <summary>la-chair</summary>
@@ -492,10 +365,6 @@ namespace Icons8
         ChevronUp = '\uf077',
         /// <summary>la-child</summary>
         Child = '\uf1ae',
-        /// <summary>la-chrome</summary>
-        Chrome = '\uf268',
-        /// <summary>la-chromecast</summary>
-        Chromecast = '\uf838',
         /// <summary>la-church</summary>
         Church = '\uf51d',
         /// <summary>la-circle</summary>
@@ -538,22 +407,12 @@ namespace Icons8
         CloudSunRain = '\uf743',
         /// <summary>la-cloud-upload-alt</summary>
         CloudUploadAlt = '\uf382',
-        /// <summary>la-cloudscale</summary>
-        Cloudscale = '\uf383',
-        /// <summary>la-cloudsmith</summary>
-        Cloudsmith = '\uf384',
-        /// <summary>la-cloudversify</summary>
-        Cloudversify = '\uf385',
         /// <summary>la-cocktail</summary>
         Cocktail = '\uf561',
         /// <summary>la-code</summary>
         Code = '\uf121',
         /// <summary>la-code-branch</summary>
         CodeBranch = '\uf126',
-        /// <summary>la-codepen</summary>
-        Codepen = '\uf1cb',
-        /// <summary>la-codiepie</summary>
-        Codiepie = '\uf284',
         /// <summary>la-coffee</summary>
         Coffee = '\uf0f4',
         /// <summary>la-cog</summary>
@@ -590,12 +449,6 @@ namespace Icons8
         CompressArrowsAlt = '\uf78c',
         /// <summary>la-concierge-bell</summary>
         ConciergeBell = '\uf562',
-        /// <summary>la-confluence</summary>
-        Confluence = '\uf78d',
-        /// <summary>la-connectdevelop</summary>
-        Connectdevelop = '\uf20e',
-        /// <summary>la-contao</summary>
-        Contao = '\uf26d',
         /// <summary>la-cookie</summary>
         Cookie = '\uf563',
         /// <summary>la-cookie-bite</summary>
@@ -604,44 +457,10 @@ namespace Icons8
         Copy = '\uf0c5',
         /// <summary>la-copyright</summary>
         Copyright = '\uf1f9',
-        /// <summary>la-cotton-bureau</summary>
-        CottonBureau = '\uf89e',
         /// <summary>la-couch</summary>
         Couch = '\uf4b8',
-        /// <summary>la-cpanel</summary>
-        Cpanel = '\uf388',
-        /// <summary>la-creative-commons</summary>
-        CreativeCommons = '\uf25e',
-        /// <summary>la-creative-commons-by</summary>
-        CreativeCommonsBy = '\uf4e7',
-        /// <summary>la-creative-commons-nc</summary>
-        CreativeCommonsNc = '\uf4e8',
-        /// <summary>la-creative-commons-nc-eu</summary>
-        CreativeCommonsNcEu = '\uf4e9',
-        /// <summary>la-creative-commons-nc-jp</summary>
-        CreativeCommonsNcJp = '\uf4ea',
-        /// <summary>la-creative-commons-nd</summary>
-        CreativeCommonsNd = '\uf4eb',
-        /// <summary>la-creative-commons-pd</summary>
-        CreativeCommonsPd = '\uf4ec',
-        /// <summary>la-creative-commons-pd-alt</summary>
-        CreativeCommonsPdAlt = '\uf4ed',
-        /// <summary>la-creative-commons-remix</summary>
-        CreativeCommonsRemix = '\uf4ee',
-        /// <summary>la-creative-commons-sa</summary>
-        CreativeCommonsSa = '\uf4ef',
-        /// <summary>la-creative-commons-sampling</summary>
-        CreativeCommonsSampling = '\uf4f0',
-        /// <summary>la-creative-commons-sampling-plus</summary>
-        CreativeCommonsSamplingPlus = '\uf4f1',
-        /// <summary>la-creative-commons-share</summary>
-        CreativeCommonsShare = '\uf4f2',
-        /// <summary>la-creative-commons-zero</summary>
-        CreativeCommonsZero = '\uf4f3',
         /// <summary>la-credit-card</summary>
         CreditCard = '\uf09d',
-        /// <summary>la-critical-role</summary>
-        CriticalRole = '\uf6c9',
         /// <summary>la-crop</summary>
         Crop = '\uf125',
         /// <summary>la-crop-alt</summary>
@@ -656,50 +475,24 @@ namespace Icons8
         Crown = '\uf521',
         /// <summary>la-crutch</summary>
         Crutch = '\uf7f7',
-        /// <summary>la-css3</summary>
-        Css3 = '\uf13c',
-        /// <summary>la-css3-alt</summary>
-        Css3Alt = '\uf38b',
         /// <summary>la-cube</summary>
         Cube = '\uf1b2',
         /// <summary>la-cubes</summary>
         Cubes = '\uf1b3',
         /// <summary>la-cut</summary>
         Cut = '\uf0c4',
-        /// <summary>la-cuttlefish</summary>
-        Cuttlefish = '\uf38c',
-        /// <summary>la-d-and-d</summary>
-        DAndD = '\uf38d',
-        /// <summary>la-d-and-d-beyond</summary>
-        DAndDBeyond = '\uf6ca',
-        /// <summary>la-dashcube</summary>
-        Dashcube = '\uf210',
         /// <summary>la-database</summary>
         Database = '\uf1c0',
         /// <summary>la-deaf</summary>
         Deaf = '\uf2a4',
-        /// <summary>la-delicious</summary>
-        Delicious = '\uf1a5',
         /// <summary>la-democrat</summary>
         Democrat = '\uf747',
-        /// <summary>la-deploydog</summary>
-        Deploydog = '\uf38e',
-        /// <summary>la-deskpro</summary>
-        Deskpro = '\uf38f',
         /// <summary>la-desktop</summary>
         Desktop = '\uf108',
-        /// <summary>la-dev</summary>
-        Dev = '\uf6cc',
-        /// <summary>la-deviantart</summary>
-        Deviantart = '\uf1bd',
         /// <summary>la-dharmachakra</summary>
         Dharmachakra = '\uf655',
-        /// <summary>la-dhl</summary>
-        Dhl = '\uf790',
         /// <summary>la-diagnoses</summary>
         Diagnoses = '\uf470',
-        /// <summary>la-diaspora</summary>
-        Diaspora = '\uf791',
         /// <summary>la-dice</summary>
         Dice = '\uf522',
         /// <summary>la-dice-d20</summary>
@@ -718,28 +511,16 @@ namespace Icons8
         DiceThree = '\uf527',
         /// <summary>la-dice-two</summary>
         DiceTwo = '\uf528',
-        /// <summary>la-digg</summary>
-        Digg = '\uf1a6',
-        /// <summary>la-digital-ocean</summary>
-        DigitalOcean = '\uf391',
         /// <summary>la-digital-tachograph</summary>
         DigitalTachograph = '\uf566',
         /// <summary>la-directions</summary>
         Directions = '\uf5eb',
-        /// <summary>la-discord</summary>
-        Discord = '\uf392',
-        /// <summary>la-discourse</summary>
-        Discourse = '\uf393',
         /// <summary>la-divide</summary>
         Divide = '\uf529',
         /// <summary>la-dizzy</summary>
         Dizzy = '\uf567',
         /// <summary>la-dna</summary>
         Dna = '\uf471',
-        /// <summary>la-dochub</summary>
-        Dochub = '\uf394',
-        /// <summary>la-docker</summary>
-        Docker = '\uf395',
         /// <summary>la-dog</summary>
         Dog = '\uf6d3',
         /// <summary>la-dollar-sign</summary>
@@ -760,28 +541,18 @@ namespace Icons8
         Dove = '\uf4ba',
         /// <summary>la-download</summary>
         Download = '\uf019',
-        /// <summary>la-draft2digital</summary>
-        Draft2digital = '\uf396',
         /// <summary>la-drafting-compass</summary>
         DraftingCompass = '\uf568',
         /// <summary>la-dragon</summary>
         Dragon = '\uf6d5',
         /// <summary>la-draw-polygon</summary>
         DrawPolygon = '\uf5ee',
-        /// <summary>la-dribbble</summary>
-        Dribbble = '\uf17d',
-        /// <summary>la-dribbble-square</summary>
-        DribbbleSquare = '\uf397',
-        /// <summary>la-dropbox</summary>
-        Dropbox = '\uf16b',
         /// <summary>la-drum</summary>
         Drum = '\uf569',
         /// <summary>la-drum-steelpan</summary>
         DrumSteelpan = '\uf56a',
         /// <summary>la-drumstick-bite</summary>
         DrumstickBite = '\uf6d7',
-        /// <summary>la-drupal</summary>
-        Drupal = '\uf1a9',
         /// <summary>la-dumbbell</summary>
         Dumbbell = '\uf44b',
         /// <summary>la-dumpster</summary>
@@ -790,32 +561,16 @@ namespace Icons8
         DumpsterFire = '\uf794',
         /// <summary>la-dungeon</summary>
         Dungeon = '\uf6d9',
-        /// <summary>la-dyalog</summary>
-        Dyalog = '\uf399',
-        /// <summary>la-earlybirds</summary>
-        Earlybirds = '\uf39a',
-        /// <summary>la-ebay</summary>
-        Ebay = '\uf4f4',
-        /// <summary>la-edge</summary>
-        Edge = '\uf282',
         /// <summary>la-edit</summary>
         Edit = '\uf044',
         /// <summary>la-egg</summary>
         Egg = '\uf7fb',
         /// <summary>la-eject</summary>
         Eject = '\uf052',
-        /// <summary>la-elementor</summary>
-        Elementor = '\uf430',
         /// <summary>la-ellipsis-h</summary>
         EllipsisH = '\uf141',
         /// <summary>la-ellipsis-v</summary>
         EllipsisV = '\uf142',
-        /// <summary>la-ello</summary>
-        Ello = '\uf5f1',
-        /// <summary>la-ember</summary>
-        Ember = '\uf423',
-        /// <summary>la-empire</summary>
-        Empire = '\uf1d1',
         /// <summary>la-envelope</summary>
         Envelope = '\uf0e0',
         /// <summary>la-envelope-open</summary>
@@ -824,24 +579,14 @@ namespace Icons8
         EnvelopeOpenText = '\uf658',
         /// <summary>la-envelope-square</summary>
         EnvelopeSquare = '\uf199',
-        /// <summary>la-envira</summary>
-        Envira = '\uf299',
         /// <summary>la-equals</summary>
         Equals = '\uf52c',
         /// <summary>la-eraser</summary>
         Eraser = '\uf12d',
-        /// <summary>la-erlang</summary>
-        Erlang = '\uf39d',
-        /// <summary>la-ethereum</summary>
-        Ethereum = '\uf42e',
         /// <summary>la-ethernet</summary>
         Ethernet = '\uf796',
-        /// <summary>la-etsy</summary>
-        Etsy = '\uf2d7',
         /// <summary>la-euro-sign</summary>
         EuroSign = '\uf153',
-        /// <summary>la-evernote</summary>
-        Evernote = '\uf839',
         /// <summary>la-exchange-alt</summary>
         ExchangeAlt = '\uf362',
         /// <summary>la-exclamation</summary>
@@ -854,8 +599,6 @@ namespace Icons8
         Expand = '\uf065',
         /// <summary>la-expand-arrows-alt</summary>
         ExpandArrowsAlt = '\uf31e',
-        /// <summary>la-expeditedssl</summary>
-        Expeditedssl = '\uf23e',
         /// <summary>la-external-link-alt</summary>
         ExternalLinkAlt = '\uf35d',
         /// <summary>la-external-link-square-alt</summary>
@@ -866,18 +609,8 @@ namespace Icons8
         EyeDropper = '\uf1fb',
         /// <summary>la-eye-slash</summary>
         EyeSlash = '\uf070',
-        /// <summary>la-facebook</summary>
-        Facebook = '\uf09a',
-        /// <summary>la-facebook-f</summary>
-        FacebookF = '\uf39e',
-        /// <summary>la-facebook-messenger</summary>
-        FacebookMessenger = '\uf39f',
-        /// <summary>la-facebook-square</summary>
-        FacebookSquare = '\uf082',
         /// <summary>la-fan</summary>
         Fan = '\uf863',
-        /// <summary>la-fantasy-flight-games</summary>
-        FantasyFlightGames = '\uf6dc',
         /// <summary>la-fast-backward</summary>
         FastBackward = '\uf049',
         /// <summary>la-fast-forward</summary>
@@ -888,16 +621,10 @@ namespace Icons8
         Feather = '\uf52d',
         /// <summary>la-feather-alt</summary>
         FeatherAlt = '\uf56b',
-        /// <summary>la-fedex</summary>
-        Fedex = '\uf797',
-        /// <summary>la-fedora</summary>
-        Fedora = '\uf798',
         /// <summary>la-female</summary>
         Female = '\uf182',
         /// <summary>la-fighter-jet</summary>
         FighterJet = '\uf0fb',
-        /// <summary>la-figma</summary>
-        Figma = '\uf799',
         /// <summary>la-file</summary>
         File = '\uf15b',
         /// <summary>la-file-alt</summary>
@@ -960,16 +687,8 @@ namespace Icons8
         FireAlt = '\uf7e4',
         /// <summary>la-fire-extinguisher</summary>
         FireExtinguisher = '\uf134',
-        /// <summary>la-firefox</summary>
-        Firefox = '\uf269',
         /// <summary>la-first-aid</summary>
         FirstAid = '\uf479',
-        /// <summary>la-first-order</summary>
-        FirstOrder = '\uf2b0',
-        /// <summary>la-first-order-alt</summary>
-        FirstOrderAlt = '\uf50a',
-        /// <summary>la-firstdraft</summary>
-        Firstdraft = '\uf3a1',
         /// <summary>la-fish</summary>
         Fish = '\uf578',
         /// <summary>la-fist-raised</summary>
@@ -982,14 +701,8 @@ namespace Icons8
         FlagUsa = '\uf74d',
         /// <summary>la-flask</summary>
         Flask = '\uf0c3',
-        /// <summary>la-flickr</summary>
-        Flickr = '\uf16e',
-        /// <summary>la-flipboard</summary>
-        Flipboard = '\uf44d',
         /// <summary>la-flushed</summary>
         Flushed = '\uf579',
-        /// <summary>la-fly</summary>
-        Fly = '\uf417',
         /// <summary>la-folder</summary>
         Folder = '\uf07b',
         /// <summary>la-folder-minus</summary>
@@ -1000,48 +713,20 @@ namespace Icons8
         FolderPlus = '\uf65e',
         /// <summary>la-font</summary>
         Font = '\uf031',
-        /// <summary>la-font-awesome</summary>
-        FontAwesome = '\uf2b4',
-        /// <summary>la-font-awesome-alt</summary>
-        FontAwesomeAlt = '\uf35c',
-        /// <summary>la-font-awesome-flag</summary>
-        FontAwesomeFlag = '\uf425',
-        /// <summary>la-fonticons</summary>
-        Fonticons = '\uf280',
-        /// <summary>la-fonticons-fi</summary>
-        FonticonsFi = '\uf3a2',
         /// <summary>la-football-ball</summary>
         FootballBall = '\uf44e',
-        /// <summary>la-fort-awesome</summary>
-        FortAwesome = '\uf286',
-        /// <summary>la-fort-awesome-alt</summary>
-        FortAwesomeAlt = '\uf3a3',
-        /// <summary>la-forumbee</summary>
-        Forumbee = '\uf211',
         /// <summary>la-forward</summary>
         Forward = '\uf04e',
-        /// <summary>la-foursquare</summary>
-        Foursquare = '\uf180',
-        /// <summary>la-free-code-camp</summary>
-        FreeCodeCamp = '\uf2c5',
-        /// <summary>la-freebsd</summary>
-        Freebsd = '\uf3a4',
         /// <summary>la-frog</summary>
         Frog = '\uf52e',
         /// <summary>la-frown</summary>
         Frown = '\uf119',
         /// <summary>la-frown-open</summary>
         FrownOpen = '\uf57a',
-        /// <summary>la-fulcrum</summary>
-        Fulcrum = '\uf50b',
         /// <summary>la-funnel-dollar</summary>
         FunnelDollar = '\uf662',
         /// <summary>la-futbol</summary>
         Futbol = '\uf1e3',
-        /// <summary>la-galactic-republic</summary>
-        GalacticRepublic = '\uf50c',
-        /// <summary>la-galactic-senate</summary>
-        GalacticSenate = '\uf50d',
         /// <summary>la-gamepad</summary>
         Gamepad = '\uf11b',
         /// <summary>la-gas-pump</summary>
@@ -1052,36 +737,12 @@ namespace Icons8
         Gem = '\uf3a5',
         /// <summary>la-genderless</summary>
         Genderless = '\uf22d',
-        /// <summary>la-get-pocket</summary>
-        GetPocket = '\uf265',
-        /// <summary>la-gg</summary>
-        Gg = '\uf260',
-        /// <summary>la-gg-circle</summary>
-        GgCircle = '\uf261',
         /// <summary>la-ghost</summary>
         Ghost = '\uf6e2',
         /// <summary>la-gift</summary>
         Gift = '\uf06b',
         /// <summary>la-gifts</summary>
         Gifts = '\uf79c',
-        /// <summary>la-git</summary>
-        Git = '\uf1d3',
-        /// <summary>la-git-alt</summary>
-        GitAlt = '\uf841',
-        /// <summary>la-git-square</summary>
-        GitSquare = '\uf1d2',
-        /// <summary>la-github</summary>
-        Github = '\uf09b',
-        /// <summary>la-github-alt</summary>
-        GithubAlt = '\uf113',
-        /// <summary>la-github-square</summary>
-        GithubSquare = '\uf092',
-        /// <summary>la-gitkraken</summary>
-        Gitkraken = '\uf3a6',
-        /// <summary>la-gitlab</summary>
-        Gitlab = '\uf296',
-        /// <summary>la-gitter</summary>
-        Gitter = '\uf426',
         /// <summary>la-glass-cheers</summary>
         GlassCheers = '\uf79f',
         /// <summary>la-glass-martini</summary>
@@ -1092,10 +753,6 @@ namespace Icons8
         GlassWhiskey = '\uf7a0',
         /// <summary>la-glasses</summary>
         Glasses = '\uf530',
-        /// <summary>la-glide</summary>
-        Glide = '\uf2a5',
-        /// <summary>la-glide-g</summary>
-        GlideG = '\uf2a6',
         /// <summary>la-globe</summary>
         Globe = '\uf0ac',
         /// <summary>la-globe-africa</summary>
@@ -1106,36 +763,12 @@ namespace Icons8
         GlobeAsia = '\uf57e',
         /// <summary>la-globe-europe</summary>
         GlobeEurope = '\uf7a2',
-        /// <summary>la-gofore</summary>
-        Gofore = '\uf3a7',
         /// <summary>la-golf-ball</summary>
         GolfBall = '\uf450',
-        /// <summary>la-goodreads</summary>
-        Goodreads = '\uf3a8',
-        /// <summary>la-goodreads-g</summary>
-        GoodreadsG = '\uf3a9',
-        /// <summary>la-google</summary>
-        Google = '\uf1a0',
-        /// <summary>la-google-drive</summary>
-        GoogleDrive = '\uf3aa',
-        /// <summary>la-google-play</summary>
-        GooglePlay = '\uf3ab',
-        /// <summary>la-google-plus</summary>
-        GooglePlus = '\uf2b3',
-        /// <summary>la-google-plus-g</summary>
-        GooglePlusG = '\uf0d5',
-        /// <summary>la-google-plus-square</summary>
-        GooglePlusSquare = '\uf0d4',
-        /// <summary>la-google-wallet</summary>
-        GoogleWallet = '\uf1ee',
         /// <summary>la-gopuram</summary>
         Gopuram = '\uf664',
         /// <summary>la-graduation-cap</summary>
         GraduationCap = '\uf19d',
-        /// <summary>la-gratipay</summary>
-        Gratipay = '\uf184',
-        /// <summary>la-grav</summary>
-        Grav = '\uf2d6',
         /// <summary>la-greater-than</summary>
         GreaterThan = '\uf531',
         /// <summary>la-greater-than-equal</summary>
@@ -1176,22 +809,10 @@ namespace Icons8
         GripLinesVertical = '\uf7a5',
         /// <summary>la-grip-vertical</summary>
         GripVertical = '\uf58e',
-        /// <summary>la-gripfire</summary>
-        Gripfire = '\uf3ac',
-        /// <summary>la-grunt</summary>
-        Grunt = '\uf3ad',
         /// <summary>la-guitar</summary>
         Guitar = '\uf7a6',
-        /// <summary>la-gulp</summary>
-        Gulp = '\uf3ae',
         /// <summary>la-h-square</summary>
         HSquare = '\uf0fd',
-        /// <summary>la-hacker-news</summary>
-        HackerNews = '\uf1d4',
-        /// <summary>la-hacker-news-square</summary>
-        HackerNewsSquare = '\uf3af',
-        /// <summary>la-hackerrank</summary>
-        Hackerrank = '\uf5f7',
         /// <summary>la-hamburger</summary>
         Hamburger = '\uf805',
         /// <summary>la-hammer</summary>
@@ -1268,10 +889,6 @@ namespace Icons8
         Hiking = '\uf6ec',
         /// <summary>la-hippo</summary>
         Hippo = '\uf6ed',
-        /// <summary>la-hips</summary>
-        Hips = '\uf452',
-        /// <summary>la-hire-a-helper</summary>
-        HireAHelper = '\uf3b0',
         /// <summary>la-history</summary>
         History = '\uf1da',
         /// <summary>la-hockey-puck</summary>
@@ -1280,10 +897,6 @@ namespace Icons8
         HollyBerry = '\uf7aa',
         /// <summary>la-home</summary>
         Home = '\uf015',
-        /// <summary>la-hooli</summary>
-        Hooli = '\uf427',
-        /// <summary>la-hornbill</summary>
-        Hornbill = '\uf592',
         /// <summary>la-horse</summary>
         Horse = '\uf6f0',
         /// <summary>la-horse-head</summary>
@@ -1300,8 +913,6 @@ namespace Icons8
         Hotdog = '\uf80f',
         /// <summary>la-hotel</summary>
         Hotel = '\uf594',
-        /// <summary>la-hotjar</summary>
-        Hotjar = '\uf3b1',
         /// <summary>la-hourglass</summary>
         Hourglass = '\uf254',
         /// <summary>la-hourglass-end</summary>
@@ -1312,14 +923,8 @@ namespace Icons8
         HourglassStart = '\uf251',
         /// <summary>la-house-damage</summary>
         HouseDamage = '\uf6f1',
-        /// <summary>la-houzz</summary>
-        Houzz = '\uf27c',
         /// <summary>la-hryvnia</summary>
         Hryvnia = '\uf6f2',
-        /// <summary>la-html5</summary>
-        Html5 = '\uf13b',
-        /// <summary>la-hubspot</summary>
-        Hubspot = '\uf3b2',
         /// <summary>la-i-cursor</summary>
         ICursor = '\uf246',
         /// <summary>la-ice-cream</summary>
@@ -1340,8 +945,6 @@ namespace Icons8
         Image = '\uf03e',
         /// <summary>la-images</summary>
         Images = '\uf302',
-        /// <summary>la-imdb</summary>
-        Imdb = '\uf2d8',
         /// <summary>la-inbox</summary>
         Inbox = '\uf01c',
         /// <summary>la-indent</summary>
@@ -1354,66 +957,22 @@ namespace Icons8
         Info = '\uf129',
         /// <summary>la-info-circle</summary>
         InfoCircle = '\uf05a',
-        /// <summary>la-instagram</summary>
-        Instagram = '\uf16d',
-        /// <summary>la-intercom</summary>
-        Intercom = '\uf7af',
-        /// <summary>la-internet-explorer</summary>
-        InternetExplorer = '\uf26b',
-        /// <summary>la-invision</summary>
-        Invision = '\uf7b0',
-        /// <summary>la-ioxhost</summary>
-        Ioxhost = '\uf208',
         /// <summary>la-italic</summary>
         Italic = '\uf033',
-        /// <summary>la-itch-io</summary>
-        ItchIo = '\uf83a',
-        /// <summary>la-itunes</summary>
-        Itunes = '\uf3b4',
-        /// <summary>la-itunes-note</summary>
-        ItunesNote = '\uf3b5',
-        /// <summary>la-java</summary>
-        Java = '\uf4e4',
         /// <summary>la-jedi</summary>
         Jedi = '\uf669',
-        /// <summary>la-jedi-order</summary>
-        JediOrder = '\uf50e',
-        /// <summary>la-jenkins</summary>
-        Jenkins = '\uf3b6',
-        /// <summary>la-jira</summary>
-        Jira = '\uf7b1',
-        /// <summary>la-joget</summary>
-        Joget = '\uf3b7',
         /// <summary>la-joint</summary>
         Joint = '\uf595',
-        /// <summary>la-joomla</summary>
-        Joomla = '\uf1aa',
         /// <summary>la-journal-whills</summary>
         JournalWhills = '\uf66a',
-        /// <summary>la-js</summary>
-        Js = '\uf3b8',
-        /// <summary>la-js-square</summary>
-        JsSquare = '\uf3b9',
-        /// <summary>la-jsfiddle</summary>
-        Jsfiddle = '\uf1cc',
         /// <summary>la-kaaba</summary>
         Kaaba = '\uf66b',
-        /// <summary>la-kaggle</summary>
-        Kaggle = '\uf5fa',
         /// <summary>la-key</summary>
         Key = '\uf084',
-        /// <summary>la-keybase</summary>
-        Keybase = '\uf4f5',
         /// <summary>la-keyboard</summary>
         Keyboard = '\uf11c',
-        /// <summary>la-keycdn</summary>
-        Keycdn = '\uf3ba',
         /// <summary>la-khanda</summary>
         Khanda = '\uf66d',
-        /// <summary>la-kickstarter</summary>
-        Kickstarter = '\uf3bb',
-        /// <summary>la-kickstarter-k</summary>
-        KickstarterK = '\uf3bc',
         /// <summary>la-kiss</summary>
         Kiss = '\uf596',
         /// <summary>la-kiss-beam</summary>
@@ -1422,8 +981,6 @@ namespace Icons8
         KissWinkHeart = '\uf598',
         /// <summary>la-kiwi-bird</summary>
         KiwiBird = '\uf535',
-        /// <summary>la-korvue</summary>
-        Korvue = '\uf42f',
         /// <summary>la-landmark</summary>
         Landmark = '\uf66f',
         /// <summary>la-language</summary>
@@ -1434,12 +991,6 @@ namespace Icons8
         LaptopCode = '\uf5fc',
         /// <summary>la-laptop-medical</summary>
         LaptopMedical = '\uf812',
-        /// <summary>la-laravel</summary>
-        Laravel = '\uf3bd',
-        /// <summary>la-lastfm</summary>
-        Lastfm = '\uf202',
-        /// <summary>la-lastfm-square</summary>
-        LastfmSquare = '\uf203',
         /// <summary>la-laugh</summary>
         Laugh = '\uf599',
         /// <summary>la-laugh-beam</summary>
@@ -1452,12 +1003,8 @@ namespace Icons8
         LayerGroup = '\uf5fd',
         /// <summary>la-leaf</summary>
         Leaf = '\uf06c',
-        /// <summary>la-leanpub</summary>
-        Leanpub = '\uf212',
         /// <summary>la-lemon</summary>
         Lemon = '\uf094',
-        /// <summary>la-less</summary>
-        Less = '\uf41d',
         /// <summary>la-less-than</summary>
         LessThan = '\uf536',
         /// <summary>la-less-than-equal</summary>
@@ -1470,18 +1017,8 @@ namespace Icons8
         LifeRing = '\uf1cd',
         /// <summary>la-lightbulb</summary>
         Lightbulb = '\uf0eb',
-        /// <summary>la-line</summary>
-        Line = '\uf3c0',
         /// <summary>la-link</summary>
         Link = '\uf0c1',
-        /// <summary>la-linkedin</summary>
-        Linkedin = '\uf08c',
-        /// <summary>la-linkedin-in</summary>
-        LinkedinIn = '\uf0e1',
-        /// <summary>la-linode</summary>
-        Linode = '\uf2b8',
-        /// <summary>la-linux</summary>
-        Linux = '\uf17c',
         /// <summary>la-lira-sign</summary>
         LiraSign = '\uf195',
         /// <summary>la-list</summary>
@@ -1510,22 +1047,14 @@ namespace Icons8
         LowVision = '\uf2a8',
         /// <summary>la-luggage-cart</summary>
         LuggageCart = '\uf59d',
-        /// <summary>la-lyft</summary>
-        Lyft = '\uf3c3',
-        /// <summary>la-magento</summary>
-        Magento = '\uf3c4',
         /// <summary>la-magic</summary>
         Magic = '\uf0d0',
         /// <summary>la-magnet</summary>
         Magnet = '\uf076',
         /// <summary>la-mail-bulk</summary>
         MailBulk = '\uf674',
-        /// <summary>la-mailchimp</summary>
-        Mailchimp = '\uf59e',
         /// <summary>la-male</summary>
         Male = '\uf183',
-        /// <summary>la-mandalorian</summary>
-        Mandalorian = '\uf50f',
         /// <summary>la-map</summary>
         Map = '\uf279',
         /// <summary>la-map-marked</summary>
@@ -1540,8 +1069,6 @@ namespace Icons8
         MapPin = '\uf276',
         /// <summary>la-map-signs</summary>
         MapSigns = '\uf277',
-        /// <summary>la-markdown</summary>
-        Markdown = '\uf60f',
         /// <summary>la-marker</summary>
         Marker = '\uf5a1',
         /// <summary>la-mars</summary>
@@ -1556,26 +1083,10 @@ namespace Icons8
         MarsStrokeV = '\uf22a',
         /// <summary>la-mask</summary>
         Mask = '\uf6fa',
-        /// <summary>la-mastodon</summary>
-        Mastodon = '\uf4f6',
-        /// <summary>la-maxcdn</summary>
-        Maxcdn = '\uf136',
         /// <summary>la-medal</summary>
         Medal = '\uf5a2',
-        /// <summary>la-medapps</summary>
-        Medapps = '\uf3c6',
-        /// <summary>la-medium</summary>
-        Medium = '\uf23a',
-        /// <summary>la-medium-m</summary>
-        MediumM = '\uf3c7',
         /// <summary>la-medkit</summary>
         Medkit = '\uf0fa',
-        /// <summary>la-medrt</summary>
-        Medrt = '\uf3c8',
-        /// <summary>la-meetup</summary>
-        Meetup = '\uf2e0',
-        /// <summary>la-megaport</summary>
-        Megaport = '\uf5a3',
         /// <summary>la-meh</summary>
         Meh = '\uf11a',
         /// <summary>la-meh-blank</summary>
@@ -1584,8 +1095,6 @@ namespace Icons8
         MehRollingEyes = '\uf5a5',
         /// <summary>la-memory</summary>
         Memory = '\uf538',
-        /// <summary>la-mendeley</summary>
-        Mendeley = '\uf7b3',
         /// <summary>la-menorah</summary>
         Menorah = '\uf676',
         /// <summary>la-mercury</summary>
@@ -1604,8 +1113,6 @@ namespace Icons8
         MicrophoneSlash = '\uf131',
         /// <summary>la-microscope</summary>
         Microscope = '\uf610',
-        /// <summary>la-microsoft</summary>
-        Microsoft = '\uf3ca',
         /// <summary>la-minus</summary>
         Minus = '\uf068',
         /// <summary>la-minus-circle</summary>
@@ -1614,20 +1121,10 @@ namespace Icons8
         MinusSquare = '\uf146',
         /// <summary>la-mitten</summary>
         Mitten = '\uf7b5',
-        /// <summary>la-mix</summary>
-        Mix = '\uf3cb',
-        /// <summary>la-mixcloud</summary>
-        Mixcloud = '\uf289',
-        /// <summary>la-mizuni</summary>
-        Mizuni = '\uf3cc',
         /// <summary>la-mobile</summary>
         Mobile = '\uf10b',
         /// <summary>la-mobile-alt</summary>
         MobileAlt = '\uf3cd',
-        /// <summary>la-modx</summary>
-        Modx = '\uf285',
-        /// <summary>la-monero</summary>
-        Monero = '\uf3d0',
         /// <summary>la-money-bill</summary>
         MoneyBill = '\uf0d6',
         /// <summary>la-money-bill-alt</summary>
@@ -1658,64 +1155,28 @@ namespace Icons8
         MugHot = '\uf7b6',
         /// <summary>la-music</summary>
         Music = '\uf001',
-        /// <summary>la-napster</summary>
-        Napster = '\uf3d2',
-        /// <summary>la-neos</summary>
-        Neos = '\uf612',
         /// <summary>la-network-wired</summary>
         NetworkWired = '\uf6ff',
         /// <summary>la-neuter</summary>
         Neuter = '\uf22c',
         /// <summary>la-newspaper</summary>
         Newspaper = '\uf1ea',
-        /// <summary>la-nimblr</summary>
-        Nimblr = '\uf5a8',
-        /// <summary>la-node</summary>
-        Node = '\uf419',
-        /// <summary>la-node-js</summary>
-        NodeJs = '\uf3d3',
         /// <summary>la-not-equal</summary>
         NotEqual = '\uf53e',
         /// <summary>la-notes-medical</summary>
         NotesMedical = '\uf481',
-        /// <summary>la-npm</summary>
-        Npm = '\uf3d4',
-        /// <summary>la-ns8</summary>
-        Ns8 = '\uf3d5',
-        /// <summary>la-nutritionix</summary>
-        Nutritionix = '\uf3d6',
         /// <summary>la-object-group</summary>
         ObjectGroup = '\uf247',
         /// <summary>la-object-ungroup</summary>
         ObjectUngroup = '\uf248',
-        /// <summary>la-odnoklassniki</summary>
-        Odnoklassniki = '\uf263',
-        /// <summary>la-odnoklassniki-square</summary>
-        OdnoklassnikiSquare = '\uf264',
         /// <summary>la-oil-can</summary>
         OilCan = '\uf613',
-        /// <summary>la-old-republic</summary>
-        OldRepublic = '\uf510',
         /// <summary>la-om</summary>
         Om = '\uf679',
-        /// <summary>la-opencart</summary>
-        Opencart = '\uf23d',
-        /// <summary>la-openid</summary>
-        Openid = '\uf19b',
-        /// <summary>la-opera</summary>
-        Opera = '\uf26a',
-        /// <summary>la-optin-monster</summary>
-        OptinMonster = '\uf23c',
-        /// <summary>la-osi</summary>
-        Osi = '\uf41a',
         /// <summary>la-otter</summary>
         Otter = '\uf700',
         /// <summary>la-outdent</summary>
         Outdent = '\uf03b',
-        /// <summary>la-page4</summary>
-        Page4 = '\uf3d7',
-        /// <summary>la-pagelines</summary>
-        Pagelines = '\uf18c',
         /// <summary>la-pager</summary>
         Pager = '\uf815',
         /// <summary>la-paint-brush</summary>
@@ -1724,8 +1185,6 @@ namespace Icons8
         PaintRoller = '\uf5aa',
         /// <summary>la-palette</summary>
         Palette = '\uf53f',
-        /// <summary>la-palfed</summary>
-        Palfed = '\uf3d8',
         /// <summary>la-pallet</summary>
         Pallet = '\uf482',
         /// <summary>la-paper-plane</summary>
@@ -1744,16 +1203,12 @@ namespace Icons8
         Pastafarianism = '\uf67b',
         /// <summary>la-paste</summary>
         Paste = '\uf0ea',
-        /// <summary>la-patreon</summary>
-        Patreon = '\uf3d9',
         /// <summary>la-pause</summary>
         Pause = '\uf04c',
         /// <summary>la-pause-circle</summary>
         PauseCircle = '\uf28b',
         /// <summary>la-paw</summary>
         Paw = '\uf1b0',
-        /// <summary>la-paypal</summary>
-        Paypal = '\uf1ed',
         /// <summary>la-peace</summary>
         Peace = '\uf67c',
         /// <summary>la-pen</summary>
@@ -1770,8 +1225,6 @@ namespace Icons8
         PencilAlt = '\uf303',
         /// <summary>la-pencil-ruler</summary>
         PencilRuler = '\uf5ae',
-        /// <summary>la-penny-arcade</summary>
-        PennyArcade = '\uf704',
         /// <summary>la-people-carry</summary>
         PeopleCarry = '\uf4ce',
         /// <summary>la-pepper-hot</summary>
@@ -1780,16 +1233,8 @@ namespace Icons8
         Percent = '\uf295',
         /// <summary>la-percentage</summary>
         Percentage = '\uf541',
-        /// <summary>la-periscope</summary>
-        Periscope = '\uf3da',
         /// <summary>la-person-booth</summary>
         PersonBooth = '\uf756',
-        /// <summary>la-phabricator</summary>
-        Phabricator = '\uf3db',
-        /// <summary>la-phoenix-framework</summary>
-        PhoenixFramework = '\uf3dc',
-        /// <summary>la-phoenix-squadron</summary>
-        PhoenixSquadron = '\uf511',
         /// <summary>la-phone</summary>
         Phone = '\uf095',
         /// <summary>la-phone-alt</summary>
@@ -1804,26 +1249,10 @@ namespace Icons8
         PhoneVolume = '\uf2a0',
         /// <summary>la-photo-video</summary>
         PhotoVideo = '\uf87c',
-        /// <summary>la-php</summary>
-        Php = '\uf457',
-        /// <summary>la-pied-piper</summary>
-        PiedPiper = '\uf2ae',
-        /// <summary>la-pied-piper-alt</summary>
-        PiedPiperAlt = '\uf1a8',
-        /// <summary>la-pied-piper-hat</summary>
-        PiedPiperHat = '\uf4e5',
-        /// <summary>la-pied-piper-pp</summary>
-        PiedPiperPp = '\uf1a7',
         /// <summary>la-piggy-bank</summary>
         PiggyBank = '\uf4d3',
         /// <summary>la-pills</summary>
         Pills = '\uf484',
-        /// <summary>la-pinterest</summary>
-        Pinterest = '\uf0d2',
-        /// <summary>la-pinterest-p</summary>
-        PinterestP = '\uf231',
-        /// <summary>la-pinterest-square</summary>
-        PinterestSquare = '\uf0d3',
         /// <summary>la-pizza-slice</summary>
         PizzaSlice = '\uf818',
         /// <summary>la-place-of-worship</summary>
@@ -1838,8 +1267,6 @@ namespace Icons8
         Play = '\uf04b',
         /// <summary>la-play-circle</summary>
         PlayCircle = '\uf144',
-        /// <summary>la-playstation</summary>
-        Playstation = '\uf3df',
         /// <summary>la-plug</summary>
         Plug = '\uf1e6',
         /// <summary>la-plus</summary>
@@ -1880,18 +1307,10 @@ namespace Icons8
         Print = '\uf02f',
         /// <summary>la-procedures</summary>
         Procedures = '\uf487',
-        /// <summary>la-product-hunt</summary>
-        ProductHunt = '\uf288',
         /// <summary>la-project-diagram</summary>
         ProjectDiagram = '\uf542',
-        /// <summary>la-pushed</summary>
-        Pushed = '\uf3e1',
         /// <summary>la-puzzle-piece</summary>
         PuzzlePiece = '\uf12e',
-        /// <summary>la-python</summary>
-        Python = '\uf3e2',
-        /// <summary>la-qq</summary>
-        Qq = '\uf1d6',
         /// <summary>la-qrcode</summary>
         Qrcode = '\uf029',
         /// <summary>la-question</summary>
@@ -1900,18 +1319,12 @@ namespace Icons8
         QuestionCircle = '\uf059',
         /// <summary>la-quidditch</summary>
         Quidditch = '\uf458',
-        /// <summary>la-quinscape</summary>
-        Quinscape = '\uf459',
-        /// <summary>la-quora</summary>
-        Quora = '\uf2c4',
         /// <summary>la-quote-left</summary>
         QuoteLeft = '\uf10d',
         /// <summary>la-quote-right</summary>
         QuoteRight = '\uf10e',
         /// <summary>la-quran</summary>
         Quran = '\uf687',
-        /// <summary>la-r-project</summary>
-        RProject = '\uf4f7',
         /// <summary>la-radiation</summary>
         Radiation = '\uf7b9',
         /// <summary>la-radiation-alt</summary>
@@ -1920,32 +1333,10 @@ namespace Icons8
         Rainbow = '\uf75b',
         /// <summary>la-random</summary>
         Random = '\uf074',
-        /// <summary>la-raspberry-pi</summary>
-        RaspberryPi = '\uf7bb',
-        /// <summary>la-ravelry</summary>
-        Ravelry = '\uf2d9',
-        /// <summary>la-react</summary>
-        React = '\uf41b',
-        /// <summary>la-reacteurope</summary>
-        Reacteurope = '\uf75d',
-        /// <summary>la-readme</summary>
-        Readme = '\uf4d5',
-        /// <summary>la-rebel</summary>
-        Rebel = '\uf1d0',
         /// <summary>la-receipt</summary>
         Receipt = '\uf543',
         /// <summary>la-recycle</summary>
         Recycle = '\uf1b8',
-        /// <summary>la-red-river</summary>
-        RedRiver = '\uf3e3',
-        /// <summary>la-reddit</summary>
-        Reddit = '\uf1a1',
-        /// <summary>la-reddit-alien</summary>
-        RedditAlien = '\uf281',
-        /// <summary>la-reddit-square</summary>
-        RedditSquare = '\uf1a2',
-        /// <summary>la-redhat</summary>
-        Redhat = '\uf7bc',
         /// <summary>la-redo</summary>
         Redo = '\uf01e',
         /// <summary>la-redo-alt</summary>
@@ -1954,26 +1345,16 @@ namespace Icons8
         Registered = '\uf25d',
         /// <summary>la-remove-format</summary>
         RemoveFormat = '\uf87d',
-        /// <summary>la-renren</summary>
-        Renren = '\uf18b',
         /// <summary>la-reply</summary>
         Reply = '\uf3e5',
         /// <summary>la-reply-all</summary>
         ReplyAll = '\uf122',
-        /// <summary>la-replyd</summary>
-        Replyd = '\uf3e6',
         /// <summary>la-republican</summary>
         Republican = '\uf75e',
-        /// <summary>la-researchgate</summary>
-        Researchgate = '\uf4f8',
-        /// <summary>la-resolving</summary>
-        Resolving = '\uf3e7',
         /// <summary>la-restroom</summary>
         Restroom = '\uf7bd',
         /// <summary>la-retweet</summary>
         Retweet = '\uf079',
-        /// <summary>la-rev</summary>
-        Rev = '\uf5b2',
         /// <summary>la-ribbon</summary>
         Ribbon = '\uf4d6',
         /// <summary>la-ring</summary>
@@ -1984,10 +1365,6 @@ namespace Icons8
         Robot = '\uf544',
         /// <summary>la-rocket</summary>
         Rocket = '\uf135',
-        /// <summary>la-rocketchat</summary>
-        Rocketchat = '\uf3e8',
-        /// <summary>la-rockrms</summary>
-        Rockrms = '\uf3e9',
         /// <summary>la-route</summary>
         Route = '\uf4d7',
         /// <summary>la-rss</summary>
@@ -2012,26 +1389,16 @@ namespace Icons8
         SadCry = '\uf5b3',
         /// <summary>la-sad-tear</summary>
         SadTear = '\uf5b4',
-        /// <summary>la-safari</summary>
-        Safari = '\uf267',
-        /// <summary>la-salesforce</summary>
-        Salesforce = '\uf83b',
-        /// <summary>la-sass</summary>
-        Sass = '\uf41e',
         /// <summary>la-satellite</summary>
         Satellite = '\uf7bf',
         /// <summary>la-satellite-dish</summary>
         SatelliteDish = '\uf7c0',
         /// <summary>la-save</summary>
         Save = '\uf0c7',
-        /// <summary>la-schlix</summary>
-        Schlix = '\uf3ea',
         /// <summary>la-school</summary>
         School = '\uf549',
         /// <summary>la-screwdriver</summary>
         Screwdriver = '\uf54a',
-        /// <summary>la-scribd</summary>
-        Scribd = '\uf28a',
         /// <summary>la-scroll</summary>
         Scroll = '\uf70e',
         /// <summary>la-sd-card</summary>
@@ -2046,18 +1413,10 @@ namespace Icons8
         SearchMinus = '\uf010',
         /// <summary>la-search-plus</summary>
         SearchPlus = '\uf00e',
-        /// <summary>la-searchengin</summary>
-        Searchengin = '\uf3eb',
         /// <summary>la-seedling</summary>
         Seedling = '\uf4d8',
-        /// <summary>la-sellcast</summary>
-        Sellcast = '\uf2da',
-        /// <summary>la-sellsy</summary>
-        Sellsy = '\uf213',
         /// <summary>la-server</summary>
         Server = '\uf233',
-        /// <summary>la-servicestack</summary>
-        Servicestack = '\uf3ec',
         /// <summary>la-shapes</summary>
         Shapes = '\uf61f',
         /// <summary>la-share</summary>
@@ -2076,8 +1435,6 @@ namespace Icons8
         Ship = '\uf21a',
         /// <summary>la-shipping-fast</summary>
         ShippingFast = '\uf48b',
-        /// <summary>la-shirtsinbulk</summary>
-        Shirtsinbulk = '\uf214',
         /// <summary>la-shoe-prints</summary>
         ShoePrints = '\uf54b',
         /// <summary>la-shopping-bag</summary>
@@ -2086,8 +1443,6 @@ namespace Icons8
         ShoppingBasket = '\uf291',
         /// <summary>la-shopping-cart</summary>
         ShoppingCart = '\uf07a',
-        /// <summary>la-shopware</summary>
-        Shopware = '\uf5b5',
         /// <summary>la-shower</summary>
         Shower = '\uf2cc',
         /// <summary>la-shuttle-van</summary>
@@ -2106,18 +1461,10 @@ namespace Icons8
         Signature = '\uf5b7',
         /// <summary>la-sim-card</summary>
         SimCard = '\uf7c4',
-        /// <summary>la-simplybuilt</summary>
-        Simplybuilt = '\uf215',
-        /// <summary>la-sistrix</summary>
-        Sistrix = '\uf3ee',
         /// <summary>la-sitemap</summary>
         Sitemap = '\uf0e8',
-        /// <summary>la-sith</summary>
-        Sith = '\uf512',
         /// <summary>la-skating</summary>
         Skating = '\uf7c5',
-        /// <summary>la-sketch</summary>
-        Sketch = '\uf7c6',
         /// <summary>la-skiing</summary>
         Skiing = '\uf7c9',
         /// <summary>la-skiing-nordic</summary>
@@ -2126,22 +1473,12 @@ namespace Icons8
         Skull = '\uf54c',
         /// <summary>la-skull-crossbones</summary>
         SkullCrossbones = '\uf714',
-        /// <summary>la-skyatlas</summary>
-        Skyatlas = '\uf216',
-        /// <summary>la-skype</summary>
-        Skype = '\uf17e',
-        /// <summary>la-slack</summary>
-        Slack = '\uf198',
-        /// <summary>la-slack-hash</summary>
-        SlackHash = '\uf3ef',
         /// <summary>la-slash</summary>
         Slash = '\uf715',
         /// <summary>la-sleigh</summary>
         Sleigh = '\uf7cc',
         /// <summary>la-sliders-h</summary>
         SlidersH = '\uf1de',
-        /// <summary>la-slideshare</summary>
-        Slideshare = '\uf1e7',
         /// <summary>la-smile</summary>
         Smile = '\uf118',
         /// <summary>la-smile-beam</summary>
@@ -2156,12 +1493,6 @@ namespace Icons8
         SmokingBan = '\uf54d',
         /// <summary>la-sms</summary>
         Sms = '\uf7cd',
-        /// <summary>la-snapchat</summary>
-        Snapchat = '\uf2ab',
-        /// <summary>la-snapchat-ghost</summary>
-        SnapchatGhost = '\uf2ac',
-        /// <summary>la-snapchat-square</summary>
-        SnapchatSquare = '\uf2ad',
         /// <summary>la-snowboarding</summary>
         Snowboarding = '\uf7ce',
         /// <summary>la-snowflake</summary>
@@ -2204,18 +1535,10 @@ namespace Icons8
         SortNumericUpAlt = '\uf887',
         /// <summary>la-sort-up</summary>
         SortUp = '\uf0de',
-        /// <summary>la-soundcloud</summary>
-        Soundcloud = '\uf1be',
-        /// <summary>la-sourcetree</summary>
-        Sourcetree = '\uf7d3',
         /// <summary>la-spa</summary>
         Spa = '\uf5bb',
         /// <summary>la-space-shuttle</summary>
         SpaceShuttle = '\uf197',
-        /// <summary>la-speakap</summary>
-        Speakap = '\uf3f3',
-        /// <summary>la-speaker-deck</summary>
-        SpeakerDeck = '\uf83c',
         /// <summary>la-spell-check</summary>
         SpellCheck = '\uf891',
         /// <summary>la-spider</summary>
@@ -2224,8 +1547,6 @@ namespace Icons8
         Spinner = '\uf110',
         /// <summary>la-splotch</summary>
         Splotch = '\uf5bc',
-        /// <summary>la-spotify</summary>
-        Spotify = '\uf1bc',
         /// <summary>la-spray-can</summary>
         SprayCan = '\uf5bd',
         /// <summary>la-square</summary>
@@ -2234,14 +1555,6 @@ namespace Icons8
         SquareFull = '\uf45c',
         /// <summary>la-square-root-alt</summary>
         SquareRootAlt = '\uf698',
-        /// <summary>la-squarespace</summary>
-        Squarespace = '\uf5be',
-        /// <summary>la-stack-exchange</summary>
-        StackExchange = '\uf18d',
-        /// <summary>la-stack-overflow</summary>
-        StackOverflow = '\uf16c',
-        /// <summary>la-stackpath</summary>
-        Stackpath = '\uf842',
         /// <summary>la-stamp</summary>
         Stamp = '\uf5bf',
         /// <summary>la-star</summary>
@@ -2256,22 +1569,12 @@ namespace Icons8
         StarOfDavid = '\uf69a',
         /// <summary>la-star-of-life</summary>
         StarOfLife = '\uf621',
-        /// <summary>la-staylinked</summary>
-        Staylinked = '\uf3f5',
-        /// <summary>la-steam</summary>
-        Steam = '\uf1b6',
-        /// <summary>la-steam-square</summary>
-        SteamSquare = '\uf1b7',
-        /// <summary>la-steam-symbol</summary>
-        SteamSymbol = '\uf3f6',
         /// <summary>la-step-backward</summary>
         StepBackward = '\uf048',
         /// <summary>la-step-forward</summary>
         StepForward = '\uf051',
         /// <summary>la-stethoscope</summary>
         Stethoscope = '\uf0f1',
-        /// <summary>la-sticker-mule</summary>
-        StickerMule = '\uf3f7',
         /// <summary>la-sticky-note</summary>
         StickyNote = '\uf249',
         /// <summary>la-stop</summary>
@@ -2284,26 +1587,14 @@ namespace Icons8
         Store = '\uf54e',
         /// <summary>la-store-alt</summary>
         StoreAlt = '\uf54f',
-        /// <summary>la-strava</summary>
-        Strava = '\uf428',
         /// <summary>la-stream</summary>
         Stream = '\uf550',
         /// <summary>la-street-view</summary>
         StreetView = '\uf21d',
         /// <summary>la-strikethrough</summary>
         Strikethrough = '\uf0cc',
-        /// <summary>la-stripe</summary>
-        Stripe = '\uf429',
-        /// <summary>la-stripe-s</summary>
-        StripeS = '\uf42a',
         /// <summary>la-stroopwafel</summary>
         Stroopwafel = '\uf551',
-        /// <summary>la-studiovinari</summary>
-        Studiovinari = '\uf3f8',
-        /// <summary>la-stumbleupon</summary>
-        Stumbleupon = '\uf1a4',
-        /// <summary>la-stumbleupon-circle</summary>
-        StumbleuponCircle = '\uf1a3',
         /// <summary>la-subscript</summary>
         Subscript = '\uf12c',
         /// <summary>la-subway</summary>
@@ -2314,24 +1605,16 @@ namespace Icons8
         SuitcaseRolling = '\uf5c1',
         /// <summary>la-sun</summary>
         Sun = '\uf185',
-        /// <summary>la-superpowers</summary>
-        Superpowers = '\uf2dd',
         /// <summary>la-superscript</summary>
         Superscript = '\uf12b',
-        /// <summary>la-supple</summary>
-        Supple = '\uf3f9',
         /// <summary>la-surprise</summary>
         Surprise = '\uf5c2',
-        /// <summary>la-suse</summary>
-        Suse = '\uf7d6',
         /// <summary>la-swatchbook</summary>
         Swatchbook = '\uf5c3',
         /// <summary>la-swimmer</summary>
         Swimmer = '\uf5c4',
         /// <summary>la-swimming-pool</summary>
         SwimmingPool = '\uf5c5',
-        /// <summary>la-symfony</summary>
-        Symfony = '\uf83d',
         /// <summary>la-synagogue</summary>
         Synagogue = '\uf69b',
         /// <summary>la-sync</summary>
@@ -2362,22 +1645,14 @@ namespace Icons8
         Tasks = '\uf0ae',
         /// <summary>la-taxi</summary>
         Taxi = '\uf1ba',
-        /// <summary>la-teamspeak</summary>
-        Teamspeak = '\uf4f9',
         /// <summary>la-teeth</summary>
         Teeth = '\uf62e',
         /// <summary>la-teeth-open</summary>
         TeethOpen = '\uf62f',
-        /// <summary>la-telegram</summary>
-        Telegram = '\uf2c6',
-        /// <summary>la-telegram-plane</summary>
-        TelegramPlane = '\uf3fe',
         /// <summary>la-temperature-high</summary>
         TemperatureHigh = '\uf769',
         /// <summary>la-temperature-low</summary>
         TemperatureLow = '\uf76b',
-        /// <summary>la-tencent-weibo</summary>
-        TencentWeibo = '\uf1d5',
         /// <summary>la-tenge</summary>
         Tenge = '\uf7d7',
         /// <summary>la-terminal</summary>
@@ -2392,14 +1667,8 @@ namespace Icons8
         ThLarge = '\uf009',
         /// <summary>la-th-list</summary>
         ThList = '\uf00b',
-        /// <summary>la-the-red-yeti</summary>
-        TheRedYeti = '\uf69d',
         /// <summary>la-theater-masks</summary>
         TheaterMasks = '\uf630',
-        /// <summary>la-themeco</summary>
-        Themeco = '\uf5c6',
-        /// <summary>la-themeisle</summary>
-        Themeisle = '\uf2b2',
         /// <summary>la-thermometer</summary>
         Thermometer = '\uf491',
         /// <summary>la-thermometer-empty</summary>
@@ -2412,8 +1681,6 @@ namespace Icons8
         ThermometerQuarter = '\uf2ca',
         /// <summary>la-thermometer-three-quarters</summary>
         ThermometerThreeQuarters = '\uf2c8',
-        /// <summary>la-think-peaks</summary>
-        ThinkPeaks = '\uf731',
         /// <summary>la-thumbs-down</summary>
         ThumbsDown = '\uf165',
         /// <summary>la-thumbs-up</summary>
@@ -2452,8 +1719,6 @@ namespace Icons8
         ToriiGate = '\uf6a1',
         /// <summary>la-tractor</summary>
         Tractor = '\uf722',
-        /// <summary>la-trade-federation</summary>
-        TradeFederation = '\uf513',
         /// <summary>la-trademark</summary>
         Trademark = '\uf25c',
         /// <summary>la-traffic-light</summary>
@@ -2476,10 +1741,6 @@ namespace Icons8
         TrashRestoreAlt = '\uf82a',
         /// <summary>la-tree</summary>
         Tree = '\uf1bb',
-        /// <summary>la-trello</summary>
-        Trello = '\uf181',
-        /// <summary>la-tripadvisor</summary>
-        Tripadvisor = '\uf262',
         /// <summary>la-trophy</summary>
         Trophy = '\uf091',
         /// <summary>la-truck</summary>
@@ -2496,26 +1757,8 @@ namespace Icons8
         Tshirt = '\uf553',
         /// <summary>la-tty</summary>
         Tty = '\uf1e4',
-        /// <summary>la-tumblr</summary>
-        Tumblr = '\uf173',
-        /// <summary>la-tumblr-square</summary>
-        TumblrSquare = '\uf174',
         /// <summary>la-tv</summary>
         Tv = '\uf26c',
-        /// <summary>la-twitch</summary>
-        Twitch = '\uf1e8',
-        /// <summary>la-twitter</summary>
-        Twitter = '\uf099',
-        /// <summary>la-twitter-square</summary>
-        TwitterSquare = '\uf081',
-        /// <summary>la-typo3</summary>
-        Typo3 = '\uf42b',
-        /// <summary>la-uber</summary>
-        Uber = '\uf402',
-        /// <summary>la-ubuntu</summary>
-        Ubuntu = '\uf7df',
-        /// <summary>la-uikit</summary>
-        Uikit = '\uf403',
         /// <summary>la-umbrella</summary>
         Umbrella = '\uf0e9',
         /// <summary>la-umbrella-beach</summary>
@@ -2526,8 +1769,6 @@ namespace Icons8
         Undo = '\uf0e2',
         /// <summary>la-undo-alt</summary>
         UndoAlt = '\uf2ea',
-        /// <summary>la-uniregistry</summary>
-        Uniregistry = '\uf404',
         /// <summary>la-universal-access</summary>
         UniversalAccess = '\uf29a',
         /// <summary>la-university</summary>
@@ -2538,14 +1779,8 @@ namespace Icons8
         Unlock = '\uf09c',
         /// <summary>la-unlock-alt</summary>
         UnlockAlt = '\uf13e',
-        /// <summary>la-untappd</summary>
-        Untappd = '\uf405',
         /// <summary>la-upload</summary>
         Upload = '\uf093',
-        /// <summary>la-ups</summary>
-        Ups = '\uf7e0',
-        /// <summary>la-usb</summary>
-        Usb = '\uf287',
         /// <summary>la-user</summary>
         User = '\uf007',
         /// <summary>la-user-alt</summary>
@@ -2598,16 +1833,10 @@ namespace Icons8
         Users = '\uf0c0',
         /// <summary>la-users-cog</summary>
         UsersCog = '\uf509',
-        /// <summary>la-usps</summary>
-        Usps = '\uf7e1',
-        /// <summary>la-ussunnah</summary>
-        Ussunnah = '\uf407',
         /// <summary>la-utensil-spoon</summary>
         UtensilSpoon = '\uf2e5',
         /// <summary>la-utensils</summary>
         Utensils = '\uf2e7',
-        /// <summary>la-vaadin</summary>
-        Vaadin = '\uf408',
         /// <summary>la-vector-square</summary>
         VectorSquare = '\uf5cb',
         /// <summary>la-venus</summary>
@@ -2616,36 +1845,16 @@ namespace Icons8
         VenusDouble = '\uf226',
         /// <summary>la-venus-mars</summary>
         VenusMars = '\uf228',
-        /// <summary>la-viacoin</summary>
-        Viacoin = '\uf237',
-        /// <summary>la-viadeo</summary>
-        Viadeo = '\uf2a9',
-        /// <summary>la-viadeo-square</summary>
-        ViadeoSquare = '\uf2aa',
         /// <summary>la-vial</summary>
         Vial = '\uf492',
         /// <summary>la-vials</summary>
         Vials = '\uf493',
-        /// <summary>la-viber</summary>
-        Viber = '\uf409',
         /// <summary>la-video</summary>
         Video = '\uf03d',
         /// <summary>la-video-slash</summary>
         VideoSlash = '\uf4e2',
         /// <summary>la-vihara</summary>
         Vihara = '\uf6a7',
-        /// <summary>la-vimeo</summary>
-        Vimeo = '\uf40a',
-        /// <summary>la-vimeo-square</summary>
-        VimeoSquare = '\uf194',
-        /// <summary>la-vimeo-v</summary>
-        VimeoV = '\uf27d',
-        /// <summary>la-vine</summary>
-        Vine = '\uf1ca',
-        /// <summary>la-vk</summary>
-        Vk = '\uf189',
-        /// <summary>la-vnv</summary>
-        Vnv = '\uf40b',
         /// <summary>la-voicemail</summary>
         Voicemail = '\uf897',
         /// <summary>la-volleyball-ball</summary>
@@ -2662,8 +1871,6 @@ namespace Icons8
         VoteYea = '\uf772',
         /// <summary>la-vr-cardboard</summary>
         VrCardboard = '\uf729',
-        /// <summary>la-vuejs</summary>
-        Vuejs = '\uf41f',
         /// <summary>la-walking</summary>
         Walking = '\uf554',
         /// <summary>la-wallet</summary>
@@ -2674,30 +1881,14 @@ namespace Icons8
         Water = '\uf773',
         /// <summary>la-wave-square</summary>
         WaveSquare = '\uf83e',
-        /// <summary>la-waze</summary>
-        Waze = '\uf83f',
-        /// <summary>la-weebly</summary>
-        Weebly = '\uf5cc',
-        /// <summary>la-weibo</summary>
-        Weibo = '\uf18a',
         /// <summary>la-weight</summary>
         Weight = '\uf496',
         /// <summary>la-weight-hanging</summary>
         WeightHanging = '\uf5cd',
-        /// <summary>la-weixin</summary>
-        Weixin = '\uf1d7',
-        /// <summary>la-whatsapp</summary>
-        Whatsapp = '\uf232',
-        /// <summary>la-whatsapp-square</summary>
-        WhatsappSquare = '\uf40c',
         /// <summary>la-wheelchair</summary>
         Wheelchair = '\uf193',
-        /// <summary>la-whmcs</summary>
-        Whmcs = '\uf40d',
         /// <summary>la-wifi</summary>
         Wifi = '\uf1eb',
-        /// <summary>la-wikipedia-w</summary>
-        WikipediaW = '\uf266',
         /// <summary>la-wind</summary>
         Wind = '\uf72e',
         /// <summary>la-window-close</summary>
@@ -2708,88 +1899,29 @@ namespace Icons8
         WindowMinimize = '\uf2d1',
         /// <summary>la-window-restore</summary>
         WindowRestore = '\uf2d2',
-        /// <summary>la-windows</summary>
-        Windows = '\uf17a',
         /// <summary>la-wine-bottle</summary>
         WineBottle = '\uf72f',
         /// <summary>la-wine-glass</summary>
         WineGlass = '\uf4e3',
         /// <summary>la-wine-glass-alt</summary>
         WineGlassAlt = '\uf5ce',
-        /// <summary>la-wix</summary>
-        Wix = '\uf5cf',
-        /// <summary>la-wizards-of-the-coast</summary>
-        WizardsOfTheCoast = '\uf730',
-        /// <summary>la-wolf-pack-battalion</summary>
-        WolfPackBattalion = '\uf514',
         /// <summary>la-won-sign</summary>
         WonSign = '\uf159',
-        /// <summary>la-wordpress</summary>
-        Wordpress = '\uf19a',
-        /// <summary>la-wordpress-simple</summary>
-        WordpressSimple = '\uf411',
-        /// <summary>la-wpbeginner</summary>
-        Wpbeginner = '\uf297',
-        /// <summary>la-wpexplorer</summary>
-        Wpexplorer = '\uf2de',
-        /// <summary>la-wpforms</summary>
-        Wpforms = '\uf298',
-        /// <summary>la-wpressr</summary>
-        Wpressr = '\uf3e4',
         /// <summary>la-wrench</summary>
         Wrench = '\uf0ad',
         /// <summary>la-x-ray</summary>
         XRay = '\uf497',
-        /// <summary>la-xbox</summary>
-        Xbox = '\uf412',
-        /// <summary>la-xing</summary>
-        Xing = '\uf168',
-        /// <summary>la-xing-square</summary>
-        XingSquare = '\uf169',
-        /// <summary>la-y-combinator</summary>
-        YCombinator = '\uf23b',
-        /// <summary>la-yahoo</summary>
-        Yahoo = '\uf19e',
-        /// <summary>la-yammer</summary>
-        Yammer = '\uf840',
-        /// <summary>la-yandex</summary>
-        Yandex = '\uf413',
-        /// <summary>la-yandex-international</summary>
-        YandexInternational = '\uf414',
-        /// <summary>la-yarn</summary>
-        Yarn = '\uf7e3',
-        /// <summary>la-yelp</summary>
-        Yelp = '\uf1e9',
         /// <summary>la-yen-sign</summary>
         YenSign = '\uf157',
         /// <summary>la-yin-yang</summary>
         YinYang = '\uf6ad',
-        /// <summary>la-yoast</summary>
-        Yoast = '\uf2b1',
-        /// <summary>la-youtube</summary>
-        Youtube = '\uf167',
-        /// <summary>la-youtube-square</summary>
-        YoutubeSquare = '\uf431',
-        /// <summary>la-zhihu</summary>
-        Zhihu = '\uf63f',
         /// <summary>la-hat-cowboy</summary>
         HatCowboy = '\uf8c0',
         /// <summary>la-hat-cowboy-side</summary>
         HatCowboySide = '\uf8c1',
-        /// <summary>la-mdb</summary>
-        Mdb = '\uf8ca',
         /// <summary>la-mouse</summary>
         Mouse = '\uf8cc',
-        /// <summary>la-orcid</summary>
-        Orcid = '\uf8d2',
         /// <summary>la-record-vinyl</summary>
-        RecordVinyl = '\uf8d9',
-        /// <summary>la-swift</summary>
-        Swift = '\uf8e1',
-        /// <summary>la-umbraco</summary>
-        Umbraco = '\uf8e8',
-        /// <summary>la-buy-n-large</summary>
-        BuyNLarge = '\uf8a6'
+        RecordVinyl = '\uf8d9'
     }
 }
-
