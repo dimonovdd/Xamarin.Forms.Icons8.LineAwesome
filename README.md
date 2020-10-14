@@ -1,17 +1,24 @@
-# Xamarin.Forms.Icons8.LineAwesome 
+# Xamarin.Forms.Icons8.LineAwesome <img src="/icon.png" width="45" height="40"/>
 
-<img src="/icon.png" width="90" height="80"/>This package is simple implementation beautiful Icons Fonts ["Icons8 LineAwesome"](https://icons8.com/line-awesome)  For Xamarin.Forms
+This package is a simple implementation of the beautiful Icons Font ["Icons8 LineAwesome"](https://icons8.com/line-awesome) For Xamarin.Forms [*(Screenshot)*](https://raw.githubusercontent.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome/main/SampleImages/sample.jpg)
 
 | Font    | Nuget         |
 |:--------|:-------------:|
-| Solid   | [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.Icons8.LineAwesome.Solid?style=plastic)](https://www.nuget.org/packages/Xamarin.Forms.Icons8.LineAwesome.Solid/)|
+| Solid   | [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.Icons8.LineAwesome.Solid?style=plastic)](https://www.nuget.org/packages/Xamarin.Forms.Icons8.LineAwesome.Solid/)    |
 | Regular | [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.Icons8.LineAwesome.Regular?style=plastic)](https://www.nuget.org/packages/Xamarin.Forms.Icons8.LineAwesome.Regular/)|
-| Brand   | [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.Icons8.LineAwesome.Brand?style=plastic)](https://www.nuget.org/packages/Xamarin.Forms.Icons8.LineAwesome.Brand/)| <img src="/icon.png" width="90" height="80"/>
+| Brand   | [![NuGet](https://img.shields.io/nuget/v/Xamarin.Forms.Icons8.LineAwesome.Brand?style=plastic)](https://www.nuget.org/packages/Xamarin.Forms.Icons8.LineAwesome.Brand/)    | 
 
-### [Screenshot](https://raw.githubusercontent.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome/main/SampleImages/sample.jpg)
+This package is divided into three nugets, so you don't install fonts that you don't use
 
-### Littel Sample:
+Icon naming differs from icons8 according to the C# language rules.
 
+| icons8         | icons8 HTML       | this project  |
+|:--------------:|:-----------------:|:-------------:|
+|dog             |la-dog             |Dog            |
+|question-circle |la-question-circle |QuestionCircle |
+|500px           |la-500px           |_500x          |
+
+#### Littel Sample:
 ```xml
 xmlns:iconsB="clr-namespace:Icons8.LineAwesome.Brand;assembly=Icons8.LineAwesome.Brand"
 ```
@@ -20,7 +27,6 @@ xmlns:iconsB="clr-namespace:Icons8.LineAwesome.Brand;assembly=Icons8.LineAwesome
     <Image.Source>
         <iconsB:IconSource Icon="Github" Size="100" Color="Red"/>
     </Image.Source>
- </Image>
+</Image>
 ```
-### [See more...](https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome/blob/main/src/LineAwesome.Sample/LineAwesome.Sample/MainPage.xaml)
-
+[***See more...***](https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome/blob/main/src/LineAwesome.Sample/LineAwesome.Sample/MainPage.xaml)
