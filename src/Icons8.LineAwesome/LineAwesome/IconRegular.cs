@@ -1,6 +1,7 @@
 ﻿
 namespace Icons8.LineAwesome
 {
+    /// <summary>Regular Icons</summary>
     public enum IconRegular
     {
         /// <summary>la-address-book</summary>

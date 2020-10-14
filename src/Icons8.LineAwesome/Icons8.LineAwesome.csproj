@@ -6,7 +6,7 @@
     <PackageLicenseExpression></PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</RepositoryUrl>
-    <Authors>dimonovdd (dimovde@yandex.ru)</Authors>
+    <Authors>dimonovdd</Authors>
     <Company />
     <Description>Implementation Icons8 LineAwesome For Xamarin.Forms
 https://github.com/icons8/line-awesome</Description>
@@ -15,10 +15,21 @@ https://github.com/icons8/line-awesome</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageId>Xamarin.Forms.Icons8.LineAwesome</PackageId>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <UserSecretsId>13a4c4d7-9014-478c-9d18-0fb64e129f4c</UserSecretsId>
+    <Version>1.0.0.1</Version>
+    <PackageTags>Xamarin.Forms, Icon, IconFont, Icons8</PackageTags>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <DocumentationFile></DocumentationFile>
+    <DocumentationFile>D:\source\repos\Xamarin.Forms.Icons8.LineAwesome\src\Icons8.LineAwesome\Icons8.LineAwesome.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\source\repos\Xamarin.Forms.Icons8.LineAwesome\src\Icons8.LineAwesome\Icons8.LineAwesome.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
@@ -42,7 +53,11 @@ https://github.com/icons8/line-awesome</Description>
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1534" />
+    <PackageReference Include="Xamarin.Forms" Version="4.6.0.726" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
   </ItemGroup>
 
 </Project>

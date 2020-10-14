@@ -1,6 +1,7 @@
 ﻿
 namespace Icons8.LineAwesome
 {
+    /// <summary>Brand Icons</summary>
     public enum IconBrand
     {
         /// <summary>la-500px</summary>

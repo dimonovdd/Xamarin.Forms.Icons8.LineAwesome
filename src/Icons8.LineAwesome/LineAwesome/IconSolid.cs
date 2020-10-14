@@ -1,6 +1,7 @@
 ﻿
 namespace Icons8.LineAwesome
 {
+    /// <summary>Solid Icons</summary>
     public enum IconSolid
     {
         /// <summary>la-ad</summary>
