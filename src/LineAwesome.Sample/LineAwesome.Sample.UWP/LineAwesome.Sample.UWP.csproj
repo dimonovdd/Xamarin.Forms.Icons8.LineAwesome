@@ -171,10 +171,6 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Icons8.LineAwesome\Icons8.LineAwesome.csproj">
-      <Project>{9a3bc725-c427-4ed6-a39a-15a802c808ad}</Project>
-      <Name>Icons8.LineAwesome</Name>
-    </ProjectReference>
     <ProjectReference Include="..\LineAwesome.Sample\LineAwesome.Sample.csproj">
       <Project>{D6567D10-3F93-4141-BFB3-A4C4FB14FB30}</Project>
       <Name>LineAwesome.Sample</Name>

@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Icons8.LineAwesome.Regular</name>
+    </assembly>
+    <members>
+        <member name="T:Icons8.LineAwesome.Regular.Icon">
+            <summary>Regular Icons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.AddressBook">
+            <summary>la-address-book</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.AddressCard">
+            <summary>la-address-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Angry">
+            <summary>la-angry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ArrowAltCircleDown">
+            <summary>la-arrow-alt-circle-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ArrowAltCircleLeft">
+            <summary>la-arrow-alt-circle-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ArrowAltCircleRight">
+            <summary>la-arrow-alt-circle-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ArrowAltCircleUp">
+            <summary>la-arrow-alt-circle-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Bell">
+            <summary>la-bell</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.BellSlash">
+            <summary>la-bell-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Bookmark">
+            <summary>la-bookmark</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Building">
+            <summary>la-building</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Calendar">
+            <summary>la-calendar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CalendarAlt">
+            <summary>la-calendar-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CalendarCheck">
+            <summary>la-calendar-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CalendarMinus">
+            <summary>la-calendar-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CalendarPlus">
+            <summary>la-calendar-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CalendarTimes">
+            <summary>la-calendar-times</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CaretSquareDown">
+            <summary>la-caret-square-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CaretSquareLeft">
+            <summary>la-caret-square-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CaretSquareRight">
+            <summary>la-caret-square-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CaretSquareUp">
+            <summary>la-caret-square-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ChartBar">
+            <summary>la-chart-bar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CheckCircle">
+            <summary>la-check-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CheckSquare">
+            <summary>la-check-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Circle">
+            <summary>la-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Clipboard">
+            <summary>la-clipboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Clock">
+            <summary>la-clock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Clone">
+            <summary>la-clone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ClosedCaptioning">
+            <summary>la-closed-captioning</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Comment">
+            <summary>la-comment</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CommentAlt">
+            <summary>la-comment-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CommentDots">
+            <summary>la-comment-dots</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Comments">
+            <summary>la-comments</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Compass">
+            <summary>la-compass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Copy">
+            <summary>la-copy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Copyright">
+            <summary>la-copyright</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.CreditCard">
+            <summary>la-credit-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Dizzy">
+            <summary>la-dizzy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.DotCircle">
+            <summary>la-dot-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Edit">
+            <summary>la-edit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Envelope">
+            <summary>la-envelope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.EnvelopeOpen">
+            <summary>la-envelope-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Eye">
+            <summary>la-eye</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.EyeSlash">
+            <summary>la-eye-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.File">
+            <summary>la-file</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileAlt">
+            <summary>la-file-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileArchive">
+            <summary>la-file-archive</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileAudio">
+            <summary>la-file-audio</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileCode">
+            <summary>la-file-code</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileExcel">
+            <summary>la-file-excel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileImage">
+            <summary>la-file-image</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FilePdf">
+            <summary>la-file-pdf</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FilePowerpoint">
+            <summary>la-file-powerpoint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileVideo">
+            <summary>la-file-video</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FileWord">
+            <summary>la-file-word</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Flag">
+            <summary>la-flag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Flushed">
+            <summary>la-flushed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Folder">
+            <summary>la-folder</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FolderOpen">
+            <summary>la-folder-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Frown">
+            <summary>la-frown</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.FrownOpen">
+            <summary>la-frown-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Futbol">
+            <summary>la-futbol</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Gem">
+            <summary>la-gem</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Grimace">
+            <summary>la-grimace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Grin">
+            <summary>la-grin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinAlt">
+            <summary>la-grin-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinBeam">
+            <summary>la-grin-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinBeamSweat">
+            <summary>la-grin-beam-sweat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinHearts">
+            <summary>la-grin-hearts</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinSquint">
+            <summary>la-grin-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinSquintTears">
+            <summary>la-grin-squint-tears</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinStars">
+            <summary>la-grin-stars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinTears">
+            <summary>la-grin-tears</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinTongue">
+            <summary>la-grin-tongue</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinTongueSquint">
+            <summary>la-grin-tongue-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinTongueWink">
+            <summary>la-grin-tongue-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.GrinWink">
+            <summary>la-grin-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandLizard">
+            <summary>la-hand-lizard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPaper">
+            <summary>la-hand-paper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPeace">
+            <summary>la-hand-peace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPointDown">
+            <summary>la-hand-point-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPointLeft">
+            <summary>la-hand-point-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPointRight">
+            <summary>la-hand-point-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPointUp">
+            <summary>la-hand-point-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandPointer">
+            <summary>la-hand-pointer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandRock">
+            <summary>la-hand-rock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandScissors">
+            <summary>la-hand-scissors</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.HandSpock">
+            <summary>la-hand-spock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Handshake">
+            <summary>la-handshake</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Hdd">
+            <summary>la-hdd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Heart">
+            <summary>la-heart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Hospital">
+            <summary>la-hospital</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Hourglass">
+            <summary>la-hourglass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.IdBadge">
+            <summary>la-id-badge</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.IdCard">
+            <summary>la-id-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Image">
+            <summary>la-image</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Images">
+            <summary>la-images</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Keyboard">
+            <summary>la-keyboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Kiss">
+            <summary>la-kiss</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.KissBeam">
+            <summary>la-kiss-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.KissWinkHeart">
+            <summary>la-kiss-wink-heart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Laugh">
+            <summary>la-laugh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.LaughBeam">
+            <summary>la-laugh-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.LaughSquint">
+            <summary>la-laugh-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.LaughWink">
+            <summary>la-laugh-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Lemon">
+            <summary>la-lemon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.LifeRing">
+            <summary>la-life-ring</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Lightbulb">
+            <summary>la-lightbulb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ListAlt">
+            <summary>la-list-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Map">
+            <summary>la-map</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Meh">
+            <summary>la-meh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.MehBlank">
+            <summary>la-meh-blank</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.MehRollingEyes">
+            <summary>la-meh-rolling-eyes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.MinusSquare">
+            <summary>la-minus-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.MoneyBillAlt">
+            <summary>la-money-bill-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Moon">
+            <summary>la-moon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Newspaper">
+            <summary>la-newspaper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ObjectGroup">
+            <summary>la-object-group</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ObjectUngroup">
+            <summary>la-object-ungroup</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.PaperPlane">
+            <summary>la-paper-plane</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.PauseCircle">
+            <summary>la-pause-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.PlayCircle">
+            <summary>la-play-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.PlusSquare">
+            <summary>la-plus-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.QuestionCircle">
+            <summary>la-question-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Registered">
+            <summary>la-registered</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.SadCry">
+            <summary>la-sad-cry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.SadTear">
+            <summary>la-sad-tear</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Save">
+            <summary>la-save</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ShareSquare">
+            <summary>la-share-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Smile">
+            <summary>la-smile</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.SmileBeam">
+            <summary>la-smile-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.SmileWink">
+            <summary>la-smile-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Snowflake">
+            <summary>la-snowflake</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Square">
+            <summary>la-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Star">
+            <summary>la-star</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.StarHalf">
+            <summary>la-star-half</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.StickyNote">
+            <summary>la-sticky-note</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.StopCircle">
+            <summary>la-stop-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Sun">
+            <summary>la-sun</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Surprise">
+            <summary>la-surprise</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ThumbsDown">
+            <summary>la-thumbs-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.ThumbsUp">
+            <summary>la-thumbs-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.TimesCircle">
+            <summary>la-times-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.Tired">
+            <summary>la-tired</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.TrashAlt">
+            <summary>la-trash-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.User">
+            <summary>la-user</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.UserCircle">
+            <summary>la-user-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.WindowClose">
+            <summary>la-window-close</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.WindowMaximize">
+            <summary>la-window-maximize</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.WindowMinimize">
+            <summary>la-window-minimize</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Regular.Icon.WindowRestore">
+            <summary>la-window-restore</summary>
+        </member>
+    </members>
+</doc>

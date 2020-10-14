@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:icons="clr-namespace:Icons8.LineAwesome;assembly=Icons8.LineAwesome"
+             xmlns:helper="clr-namespace:IconFontHelper;assembly=IconFontHelper"
+             xmlns:iconsB="clr-namespace:Icons8.LineAwesome.Brand;assembly=Icons8.LineAwesome.Brand"
+             xmlns:iconsS="clr-namespace:Icons8.LineAwesome.Solid;assembly=Icons8.LineAwesome.Solid"
+             xmlns:iconsR="clr-namespace:Icons8.LineAwesome.Regular;assembly=Icons8.LineAwesome.Regular"
              x:Class="LineAwesome.Sample.MainPage"
              BackgroundColor="White">
 
     <ContentPage.Resources>
         <ResourceDictionary>
-            <icons:IconToStringConverter x:Key="iconConv" />
+            <helper:IconToStringConverter x:Key="iconConv" />
         </ResourceDictionary>
     </ContentPage.Resources>
 
@@ -15,34 +18,33 @@
         <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
             <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
                 <Image.Source>
-                    <icons:IconSolidSource Icon="Heart" Size="100" />
+                    <iconsS:IconSource Icon="Heart" Size="100" />
                 </Image.Source>
             </Image>
 
             <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
                 <Image.Source>
-                    <icons:IconRegularSource Icon="Heart" Color="Red" Size="100"/>
+                    <iconsR:IconSource Icon="Heart" Color="Red" Size="100"/>
                 </Image.Source>
             </Image>
 
             <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
                 <Image.Source>
-                    <icons:IconBrandSource Icon="Github" Size="100"/>
+                    <iconsB:IconSource Icon="Github" Size="100"/>
                 </Image.Source>
             </Image>
 
             <Image Margin="15" HorizontalOptions="Center" VerticalOptions="Center">
                 <Image.Source>
                     <FontImageSource 
-                        Glyph="{Binding Source={x:Static icons:IconBrand.Git}, Converter={StaticResource iconConv}}"
-                        FontFamily="{x:Static icons:LineAwesomeFont.brand}" Color="Blue" Size="100"/>
+                        Glyph="{Binding Source={x:Static iconsB:Icon.Git}, Converter={StaticResource iconConv}}"
+                        FontFamily="{x:Static iconsB:IconInfo.font}" Color="Blue" Size="100"/>
                 </Image.Source>
             </Image>
 
             <Label Margin="15" HorizontalOptions="Center" VerticalOptions="Center" FontSize="100" TextColor="Green"
-                Text="{Binding Source={x:Static icons:IconRegular.Smile}, Converter={StaticResource iconConv}}" 
-                FontFamily="{x:Static icons:LineAwesomeFont.regular}"/>
-
+                Text="{Binding Source={x:Static iconsR:Icon.Smile}, Converter={StaticResource iconConv}}" 
+                FontFamily="{x:Static iconsR:IconInfo.font}"/>
         </StackLayout>
     </ScrollView>
 </ContentPage>

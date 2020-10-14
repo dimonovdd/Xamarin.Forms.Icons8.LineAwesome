@@ -1,0 +1,2891 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Icons8.LineAwesome.Solid</name>
+    </assembly>
+    <members>
+        <member name="T:Icons8.LineAwesome.Solid.Icon">
+            <summary>Solid Icons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ad">
+            <summary>la-ad</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AddressBook">
+            <summary>la-address-book</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AddressCard">
+            <summary>la-address-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Adjust">
+            <summary>la-adjust</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AirFreshener">
+            <summary>la-air-freshener</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AlignCenter">
+            <summary>la-align-center</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AlignJustify">
+            <summary>la-align-justify</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AlignLeft">
+            <summary>la-align-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AlignRight">
+            <summary>la-align-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Allergies">
+            <summary>la-allergies</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ambulance">
+            <summary>la-ambulance</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AmericanSignLanguageInterpreting">
+            <summary>la-american-sign-language-interpreting</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Anchor">
+            <summary>la-anchor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleDoubleDown">
+            <summary>la-angle-double-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleDoubleLeft">
+            <summary>la-angle-double-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleDoubleRight">
+            <summary>la-angle-double-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleDoubleUp">
+            <summary>la-angle-double-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleDown">
+            <summary>la-angle-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleLeft">
+            <summary>la-angle-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleRight">
+            <summary>la-angle-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AngleUp">
+            <summary>la-angle-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Angry">
+            <summary>la-angry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ankh">
+            <summary>la-ankh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AppleAlt">
+            <summary>la-apple-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Archive">
+            <summary>la-archive</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Archway">
+            <summary>la-archway</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowAltCircleDown">
+            <summary>la-arrow-alt-circle-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowAltCircleLeft">
+            <summary>la-arrow-alt-circle-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowAltCircleRight">
+            <summary>la-arrow-alt-circle-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowAltCircleUp">
+            <summary>la-arrow-alt-circle-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowCircleDown">
+            <summary>la-arrow-circle-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowCircleLeft">
+            <summary>la-arrow-circle-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowCircleRight">
+            <summary>la-arrow-circle-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowCircleUp">
+            <summary>la-arrow-circle-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowDown">
+            <summary>la-arrow-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowLeft">
+            <summary>la-arrow-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowRight">
+            <summary>la-arrow-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowUp">
+            <summary>la-arrow-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowsAlt">
+            <summary>la-arrows-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowsAltH">
+            <summary>la-arrows-alt-h</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ArrowsAltV">
+            <summary>la-arrows-alt-v</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AssistiveListeningSystems">
+            <summary>la-assistive-listening-systems</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Asterisk">
+            <summary>la-asterisk</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.At">
+            <summary>la-at</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Atlas">
+            <summary>la-atlas</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Atom">
+            <summary>la-atom</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.AudioDescription">
+            <summary>la-audio-description</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Award">
+            <summary>la-award</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Baby">
+            <summary>la-baby</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BabyCarriage">
+            <summary>la-baby-carriage</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Backspace">
+            <summary>la-backspace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Backward">
+            <summary>la-backward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bacon">
+            <summary>la-bacon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BalanceScale">
+            <summary>la-balance-scale</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BalanceScaleLeft">
+            <summary>la-balance-scale-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BalanceScaleRight">
+            <summary>la-balance-scale-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ban">
+            <summary>la-ban</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BandAid">
+            <summary>la-band-aid</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Barcode">
+            <summary>la-barcode</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bars">
+            <summary>la-bars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BaseballBall">
+            <summary>la-baseball-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BasketballBall">
+            <summary>la-basketball-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bath">
+            <summary>la-bath</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BatteryEmpty">
+            <summary>la-battery-empty</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BatteryFull">
+            <summary>la-battery-full</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BatteryHalf">
+            <summary>la-battery-half</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BatteryQuarter">
+            <summary>la-battery-quarter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BatteryThreeQuarters">
+            <summary>la-battery-three-quarters</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bed">
+            <summary>la-bed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Beer">
+            <summary>la-beer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bell">
+            <summary>la-bell</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BellSlash">
+            <summary>la-bell-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BezierCurve">
+            <summary>la-bezier-curve</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bible">
+            <summary>la-bible</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bicycle">
+            <summary>la-bicycle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Biking">
+            <summary>la-biking</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Binoculars">
+            <summary>la-binoculars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Biohazard">
+            <summary>la-biohazard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BirthdayCake">
+            <summary>la-birthday-cake</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Blender">
+            <summary>la-blender</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BlenderPhone">
+            <summary>la-blender-phone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Blind">
+            <summary>la-blind</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Blog">
+            <summary>la-blog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bold">
+            <summary>la-bold</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bolt">
+            <summary>la-bolt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bomb">
+            <summary>la-bomb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bone">
+            <summary>la-bone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bong">
+            <summary>la-bong</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Book">
+            <summary>la-book</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BookDead">
+            <summary>la-book-dead</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BookMedical">
+            <summary>la-book-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BookOpen">
+            <summary>la-book-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BookReader">
+            <summary>la-book-reader</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bookmark">
+            <summary>la-bookmark</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BorderAll">
+            <summary>la-border-all</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BorderNone">
+            <summary>la-border-none</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BorderStyle">
+            <summary>la-border-style</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BowlingBall">
+            <summary>la-bowling-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Box">
+            <summary>la-box</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BoxOpen">
+            <summary>la-box-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Boxes">
+            <summary>la-boxes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Braille">
+            <summary>la-braille</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Brain">
+            <summary>la-brain</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BreadSlice">
+            <summary>la-bread-slice</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Briefcase">
+            <summary>la-briefcase</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BriefcaseMedical">
+            <summary>la-briefcase-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BroadcastTower">
+            <summary>la-broadcast-tower</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Broom">
+            <summary>la-broom</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Brush">
+            <summary>la-brush</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bug">
+            <summary>la-bug</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Building">
+            <summary>la-building</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bullhorn">
+            <summary>la-bullhorn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bullseye">
+            <summary>la-bullseye</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Burn">
+            <summary>la-burn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Bus">
+            <summary>la-bus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BusAlt">
+            <summary>la-bus-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.BusinessTime">
+            <summary>la-business-time</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Calculator">
+            <summary>la-calculator</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Calendar">
+            <summary>la-calendar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarAlt">
+            <summary>la-calendar-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarCheck">
+            <summary>la-calendar-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarDay">
+            <summary>la-calendar-day</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarMinus">
+            <summary>la-calendar-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarPlus">
+            <summary>la-calendar-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarTimes">
+            <summary>la-calendar-times</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CalendarWeek">
+            <summary>la-calendar-week</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Camera">
+            <summary>la-camera</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CameraRetro">
+            <summary>la-camera-retro</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Campground">
+            <summary>la-campground</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CandyCane">
+            <summary>la-candy-cane</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cannabis">
+            <summary>la-cannabis</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Capsules">
+            <summary>la-capsules</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Car">
+            <summary>la-car</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CarAlt">
+            <summary>la-car-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CarBattery">
+            <summary>la-car-battery</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CarCrash">
+            <summary>la-car-crash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CarSide">
+            <summary>la-car-side</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretDown">
+            <summary>la-caret-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretLeft">
+            <summary>la-caret-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretRight">
+            <summary>la-caret-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretSquareDown">
+            <summary>la-caret-square-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretSquareLeft">
+            <summary>la-caret-square-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretSquareRight">
+            <summary>la-caret-square-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretSquareUp">
+            <summary>la-caret-square-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CaretUp">
+            <summary>la-caret-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Carrot">
+            <summary>la-carrot</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CartArrowDown">
+            <summary>la-cart-arrow-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CartPlus">
+            <summary>la-cart-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CashRegister">
+            <summary>la-cash-register</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cat">
+            <summary>la-cat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Certificate">
+            <summary>la-certificate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Chair">
+            <summary>la-chair</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Chalkboard">
+            <summary>la-chalkboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChalkboardTeacher">
+            <summary>la-chalkboard-teacher</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChargingStation">
+            <summary>la-charging-station</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChartArea">
+            <summary>la-chart-area</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChartBar">
+            <summary>la-chart-bar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChartLine">
+            <summary>la-chart-line</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChartPie">
+            <summary>la-chart-pie</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Check">
+            <summary>la-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CheckCircle">
+            <summary>la-check-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CheckDouble">
+            <summary>la-check-double</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CheckSquare">
+            <summary>la-check-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cheese">
+            <summary>la-cheese</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Chess">
+            <summary>la-chess</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessBishop">
+            <summary>la-chess-bishop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessBoard">
+            <summary>la-chess-board</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessKing">
+            <summary>la-chess-king</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessKnight">
+            <summary>la-chess-knight</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessPawn">
+            <summary>la-chess-pawn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessQueen">
+            <summary>la-chess-queen</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChessRook">
+            <summary>la-chess-rook</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronCircleDown">
+            <summary>la-chevron-circle-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronCircleLeft">
+            <summary>la-chevron-circle-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronCircleRight">
+            <summary>la-chevron-circle-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronCircleUp">
+            <summary>la-chevron-circle-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronDown">
+            <summary>la-chevron-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronLeft">
+            <summary>la-chevron-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronRight">
+            <summary>la-chevron-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ChevronUp">
+            <summary>la-chevron-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Child">
+            <summary>la-child</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Church">
+            <summary>la-church</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Circle">
+            <summary>la-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CircleNotch">
+            <summary>la-circle-notch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.City">
+            <summary>la-city</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ClinicMedical">
+            <summary>la-clinic-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Clipboard">
+            <summary>la-clipboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ClipboardCheck">
+            <summary>la-clipboard-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ClipboardList">
+            <summary>la-clipboard-list</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Clock">
+            <summary>la-clock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Clone">
+            <summary>la-clone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ClosedCaptioning">
+            <summary>la-closed-captioning</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cloud">
+            <summary>la-cloud</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudDownloadAlt">
+            <summary>la-cloud-download-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudMeatball">
+            <summary>la-cloud-meatball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudMoon">
+            <summary>la-cloud-moon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudMoonRain">
+            <summary>la-cloud-moon-rain</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudRain">
+            <summary>la-cloud-rain</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudShowersHeavy">
+            <summary>la-cloud-showers-heavy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudSun">
+            <summary>la-cloud-sun</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudSunRain">
+            <summary>la-cloud-sun-rain</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CloudUploadAlt">
+            <summary>la-cloud-upload-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cocktail">
+            <summary>la-cocktail</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Code">
+            <summary>la-code</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CodeBranch">
+            <summary>la-code-branch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Coffee">
+            <summary>la-coffee</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cog">
+            <summary>la-cog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cogs">
+            <summary>la-cogs</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Coins">
+            <summary>la-coins</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Columns">
+            <summary>la-columns</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Comment">
+            <summary>la-comment</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentAlt">
+            <summary>la-comment-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentDollar">
+            <summary>la-comment-dollar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentDots">
+            <summary>la-comment-dots</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentMedical">
+            <summary>la-comment-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentSlash">
+            <summary>la-comment-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Comments">
+            <summary>la-comments</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CommentsDollar">
+            <summary>la-comments-dollar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CompactDisc">
+            <summary>la-compact-disc</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Compass">
+            <summary>la-compass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Compress">
+            <summary>la-compress</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CompressArrowsAlt">
+            <summary>la-compress-arrows-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ConciergeBell">
+            <summary>la-concierge-bell</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cookie">
+            <summary>la-cookie</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CookieBite">
+            <summary>la-cookie-bite</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Copy">
+            <summary>la-copy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Copyright">
+            <summary>la-copyright</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Couch">
+            <summary>la-couch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CreditCard">
+            <summary>la-credit-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Crop">
+            <summary>la-crop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.CropAlt">
+            <summary>la-crop-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cross">
+            <summary>la-cross</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Crosshairs">
+            <summary>la-crosshairs</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Crow">
+            <summary>la-crow</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Crown">
+            <summary>la-crown</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Crutch">
+            <summary>la-crutch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cube">
+            <summary>la-cube</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cubes">
+            <summary>la-cubes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Cut">
+            <summary>la-cut</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Database">
+            <summary>la-database</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Deaf">
+            <summary>la-deaf</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Democrat">
+            <summary>la-democrat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Desktop">
+            <summary>la-desktop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dharmachakra">
+            <summary>la-dharmachakra</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Diagnoses">
+            <summary>la-diagnoses</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dice">
+            <summary>la-dice</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceD20">
+            <summary>la-dice-d20</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceD6">
+            <summary>la-dice-d6</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceFive">
+            <summary>la-dice-five</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceFour">
+            <summary>la-dice-four</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceOne">
+            <summary>la-dice-one</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceSix">
+            <summary>la-dice-six</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceThree">
+            <summary>la-dice-three</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DiceTwo">
+            <summary>la-dice-two</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DigitalTachograph">
+            <summary>la-digital-tachograph</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Directions">
+            <summary>la-directions</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Divide">
+            <summary>la-divide</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dizzy">
+            <summary>la-dizzy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dna">
+            <summary>la-dna</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dog">
+            <summary>la-dog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DollarSign">
+            <summary>la-dollar-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dolly">
+            <summary>la-dolly</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DollyFlatbed">
+            <summary>la-dolly-flatbed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Donate">
+            <summary>la-donate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DoorClosed">
+            <summary>la-door-closed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DoorOpen">
+            <summary>la-door-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DotCircle">
+            <summary>la-dot-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dove">
+            <summary>la-dove</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Download">
+            <summary>la-download</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DraftingCompass">
+            <summary>la-drafting-compass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dragon">
+            <summary>la-dragon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DrawPolygon">
+            <summary>la-draw-polygon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Drum">
+            <summary>la-drum</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DrumSteelpan">
+            <summary>la-drum-steelpan</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DrumstickBite">
+            <summary>la-drumstick-bite</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dumbbell">
+            <summary>la-dumbbell</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dumpster">
+            <summary>la-dumpster</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.DumpsterFire">
+            <summary>la-dumpster-fire</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Dungeon">
+            <summary>la-dungeon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Edit">
+            <summary>la-edit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Egg">
+            <summary>la-egg</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Eject">
+            <summary>la-eject</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EllipsisH">
+            <summary>la-ellipsis-h</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EllipsisV">
+            <summary>la-ellipsis-v</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Envelope">
+            <summary>la-envelope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EnvelopeOpen">
+            <summary>la-envelope-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EnvelopeOpenText">
+            <summary>la-envelope-open-text</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EnvelopeSquare">
+            <summary>la-envelope-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Equals">
+            <summary>la-equals</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Eraser">
+            <summary>la-eraser</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ethernet">
+            <summary>la-ethernet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EuroSign">
+            <summary>la-euro-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExchangeAlt">
+            <summary>la-exchange-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Exclamation">
+            <summary>la-exclamation</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExclamationCircle">
+            <summary>la-exclamation-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExclamationTriangle">
+            <summary>la-exclamation-triangle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Expand">
+            <summary>la-expand</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExpandArrowsAlt">
+            <summary>la-expand-arrows-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExternalLinkAlt">
+            <summary>la-external-link-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ExternalLinkSquareAlt">
+            <summary>la-external-link-square-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Eye">
+            <summary>la-eye</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EyeDropper">
+            <summary>la-eye-dropper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.EyeSlash">
+            <summary>la-eye-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fan">
+            <summary>la-fan</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FastBackward">
+            <summary>la-fast-backward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FastForward">
+            <summary>la-fast-forward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fax">
+            <summary>la-fax</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Feather">
+            <summary>la-feather</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FeatherAlt">
+            <summary>la-feather-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Female">
+            <summary>la-female</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FighterJet">
+            <summary>la-fighter-jet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.File">
+            <summary>la-file</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileAlt">
+            <summary>la-file-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileArchive">
+            <summary>la-file-archive</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileAudio">
+            <summary>la-file-audio</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileCode">
+            <summary>la-file-code</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileContract">
+            <summary>la-file-contract</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileCsv">
+            <summary>la-file-csv</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileDownload">
+            <summary>la-file-download</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileExcel">
+            <summary>la-file-excel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileExport">
+            <summary>la-file-export</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileImage">
+            <summary>la-file-image</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileImport">
+            <summary>la-file-import</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileInvoice">
+            <summary>la-file-invoice</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileInvoiceDollar">
+            <summary>la-file-invoice-dollar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileMedical">
+            <summary>la-file-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileMedicalAlt">
+            <summary>la-file-medical-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FilePdf">
+            <summary>la-file-pdf</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FilePowerpoint">
+            <summary>la-file-powerpoint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FilePrescription">
+            <summary>la-file-prescription</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileSignature">
+            <summary>la-file-signature</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileUpload">
+            <summary>la-file-upload</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileVideo">
+            <summary>la-file-video</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FileWord">
+            <summary>la-file-word</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fill">
+            <summary>la-fill</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FillDrip">
+            <summary>la-fill-drip</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Film">
+            <summary>la-film</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Filter">
+            <summary>la-filter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fingerprint">
+            <summary>la-fingerprint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fire">
+            <summary>la-fire</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FireAlt">
+            <summary>la-fire-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FireExtinguisher">
+            <summary>la-fire-extinguisher</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FirstAid">
+            <summary>la-first-aid</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Fish">
+            <summary>la-fish</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FistRaised">
+            <summary>la-fist-raised</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Flag">
+            <summary>la-flag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FlagCheckered">
+            <summary>la-flag-checkered</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FlagUsa">
+            <summary>la-flag-usa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Flask">
+            <summary>la-flask</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Flushed">
+            <summary>la-flushed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Folder">
+            <summary>la-folder</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FolderMinus">
+            <summary>la-folder-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FolderOpen">
+            <summary>la-folder-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FolderPlus">
+            <summary>la-folder-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Font">
+            <summary>la-font</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FootballBall">
+            <summary>la-football-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Forward">
+            <summary>la-forward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Frog">
+            <summary>la-frog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Frown">
+            <summary>la-frown</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FrownOpen">
+            <summary>la-frown-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.FunnelDollar">
+            <summary>la-funnel-dollar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Futbol">
+            <summary>la-futbol</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gamepad">
+            <summary>la-gamepad</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GasPump">
+            <summary>la-gas-pump</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gavel">
+            <summary>la-gavel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gem">
+            <summary>la-gem</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Genderless">
+            <summary>la-genderless</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ghost">
+            <summary>la-ghost</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gift">
+            <summary>la-gift</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gifts">
+            <summary>la-gifts</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlassCheers">
+            <summary>la-glass-cheers</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlassMartini">
+            <summary>la-glass-martini</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlassMartiniAlt">
+            <summary>la-glass-martini-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlassWhiskey">
+            <summary>la-glass-whiskey</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Glasses">
+            <summary>la-glasses</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Globe">
+            <summary>la-globe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlobeAfrica">
+            <summary>la-globe-africa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlobeAmericas">
+            <summary>la-globe-americas</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlobeAsia">
+            <summary>la-globe-asia</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GlobeEurope">
+            <summary>la-globe-europe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GolfBall">
+            <summary>la-golf-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Gopuram">
+            <summary>la-gopuram</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GraduationCap">
+            <summary>la-graduation-cap</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GreaterThan">
+            <summary>la-greater-than</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GreaterThanEqual">
+            <summary>la-greater-than-equal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Grimace">
+            <summary>la-grimace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Grin">
+            <summary>la-grin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinAlt">
+            <summary>la-grin-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinBeam">
+            <summary>la-grin-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinBeamSweat">
+            <summary>la-grin-beam-sweat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinHearts">
+            <summary>la-grin-hearts</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinSquint">
+            <summary>la-grin-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinSquintTears">
+            <summary>la-grin-squint-tears</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinStars">
+            <summary>la-grin-stars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinTears">
+            <summary>la-grin-tears</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinTongue">
+            <summary>la-grin-tongue</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinTongueSquint">
+            <summary>la-grin-tongue-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinTongueWink">
+            <summary>la-grin-tongue-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GrinWink">
+            <summary>la-grin-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GripHorizontal">
+            <summary>la-grip-horizontal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GripLines">
+            <summary>la-grip-lines</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GripLinesVertical">
+            <summary>la-grip-lines-vertical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.GripVertical">
+            <summary>la-grip-vertical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Guitar">
+            <summary>la-guitar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HSquare">
+            <summary>la-h-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hamburger">
+            <summary>la-hamburger</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hammer">
+            <summary>la-hammer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hamsa">
+            <summary>la-hamsa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandHolding">
+            <summary>la-hand-holding</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandHoldingHeart">
+            <summary>la-hand-holding-heart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandHoldingUsd">
+            <summary>la-hand-holding-usd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandLizard">
+            <summary>la-hand-lizard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandMiddleFinger">
+            <summary>la-hand-middle-finger</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPaper">
+            <summary>la-hand-paper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPeace">
+            <summary>la-hand-peace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPointDown">
+            <summary>la-hand-point-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPointLeft">
+            <summary>la-hand-point-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPointRight">
+            <summary>la-hand-point-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPointUp">
+            <summary>la-hand-point-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandPointer">
+            <summary>la-hand-pointer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandRock">
+            <summary>la-hand-rock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandScissors">
+            <summary>la-hand-scissors</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandSpock">
+            <summary>la-hand-spock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hands">
+            <summary>la-hands</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HandsHelping">
+            <summary>la-hands-helping</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Handshake">
+            <summary>la-handshake</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hanukiah">
+            <summary>la-hanukiah</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HardHat">
+            <summary>la-hard-hat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hashtag">
+            <summary>la-hashtag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HatWizard">
+            <summary>la-hat-wizard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Haykal">
+            <summary>la-haykal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hdd">
+            <summary>la-hdd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Heading">
+            <summary>la-heading</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Headphones">
+            <summary>la-headphones</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HeadphonesAlt">
+            <summary>la-headphones-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Headset">
+            <summary>la-headset</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Heart">
+            <summary>la-heart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HeartBroken">
+            <summary>la-heart-broken</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Heartbeat">
+            <summary>la-heartbeat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Helicopter">
+            <summary>la-helicopter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Highlighter">
+            <summary>la-highlighter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hiking">
+            <summary>la-hiking</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hippo">
+            <summary>la-hippo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.History">
+            <summary>la-history</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HockeyPuck">
+            <summary>la-hockey-puck</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HollyBerry">
+            <summary>la-holly-berry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Home">
+            <summary>la-home</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Horse">
+            <summary>la-horse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HorseHead">
+            <summary>la-horse-head</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hospital">
+            <summary>la-hospital</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HospitalAlt">
+            <summary>la-hospital-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HospitalSymbol">
+            <summary>la-hospital-symbol</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HotTub">
+            <summary>la-hot-tub</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hotdog">
+            <summary>la-hotdog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hotel">
+            <summary>la-hotel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hourglass">
+            <summary>la-hourglass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HourglassEnd">
+            <summary>la-hourglass-end</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HourglassHalf">
+            <summary>la-hourglass-half</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HourglassStart">
+            <summary>la-hourglass-start</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HouseDamage">
+            <summary>la-house-damage</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Hryvnia">
+            <summary>la-hryvnia</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ICursor">
+            <summary>la-i-cursor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.IceCream">
+            <summary>la-ice-cream</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Icicles">
+            <summary>la-icicles</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Icons">
+            <summary>la-icons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.IdBadge">
+            <summary>la-id-badge</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.IdCard">
+            <summary>la-id-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.IdCardAlt">
+            <summary>la-id-card-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Igloo">
+            <summary>la-igloo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Image">
+            <summary>la-image</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Images">
+            <summary>la-images</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Inbox">
+            <summary>la-inbox</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Indent">
+            <summary>la-indent</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Industry">
+            <summary>la-industry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Infinity">
+            <summary>la-infinity</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Info">
+            <summary>la-info</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.InfoCircle">
+            <summary>la-info-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Italic">
+            <summary>la-italic</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Jedi">
+            <summary>la-jedi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Joint">
+            <summary>la-joint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.JournalWhills">
+            <summary>la-journal-whills</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Kaaba">
+            <summary>la-kaaba</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Key">
+            <summary>la-key</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Keyboard">
+            <summary>la-keyboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Khanda">
+            <summary>la-khanda</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Kiss">
+            <summary>la-kiss</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.KissBeam">
+            <summary>la-kiss-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.KissWinkHeart">
+            <summary>la-kiss-wink-heart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.KiwiBird">
+            <summary>la-kiwi-bird</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Landmark">
+            <summary>la-landmark</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Language">
+            <summary>la-language</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Laptop">
+            <summary>la-laptop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LaptopCode">
+            <summary>la-laptop-code</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LaptopMedical">
+            <summary>la-laptop-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Laugh">
+            <summary>la-laugh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LaughBeam">
+            <summary>la-laugh-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LaughSquint">
+            <summary>la-laugh-squint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LaughWink">
+            <summary>la-laugh-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LayerGroup">
+            <summary>la-layer-group</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Leaf">
+            <summary>la-leaf</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Lemon">
+            <summary>la-lemon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LessThan">
+            <summary>la-less-than</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LessThanEqual">
+            <summary>la-less-than-equal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LevelDownAlt">
+            <summary>la-level-down-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LevelUpAlt">
+            <summary>la-level-up-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LifeRing">
+            <summary>la-life-ring</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Lightbulb">
+            <summary>la-lightbulb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Link">
+            <summary>la-link</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LiraSign">
+            <summary>la-lira-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.List">
+            <summary>la-list</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ListAlt">
+            <summary>la-list-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ListOl">
+            <summary>la-list-ol</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ListUl">
+            <summary>la-list-ul</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LocationArrow">
+            <summary>la-location-arrow</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Lock">
+            <summary>la-lock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LockOpen">
+            <summary>la-lock-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LongArrowAltDown">
+            <summary>la-long-arrow-alt-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LongArrowAltLeft">
+            <summary>la-long-arrow-alt-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LongArrowAltRight">
+            <summary>la-long-arrow-alt-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LongArrowAltUp">
+            <summary>la-long-arrow-alt-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LowVision">
+            <summary>la-low-vision</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.LuggageCart">
+            <summary>la-luggage-cart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Magic">
+            <summary>la-magic</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Magnet">
+            <summary>la-magnet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MailBulk">
+            <summary>la-mail-bulk</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Male">
+            <summary>la-male</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Map">
+            <summary>la-map</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapMarked">
+            <summary>la-map-marked</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapMarkedAlt">
+            <summary>la-map-marked-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapMarker">
+            <summary>la-map-marker</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapMarkerAlt">
+            <summary>la-map-marker-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapPin">
+            <summary>la-map-pin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MapSigns">
+            <summary>la-map-signs</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Marker">
+            <summary>la-marker</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mars">
+            <summary>la-mars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MarsDouble">
+            <summary>la-mars-double</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MarsStroke">
+            <summary>la-mars-stroke</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MarsStrokeH">
+            <summary>la-mars-stroke-h</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MarsStrokeV">
+            <summary>la-mars-stroke-v</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mask">
+            <summary>la-mask</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Medal">
+            <summary>la-medal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Medkit">
+            <summary>la-medkit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Meh">
+            <summary>la-meh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MehBlank">
+            <summary>la-meh-blank</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MehRollingEyes">
+            <summary>la-meh-rolling-eyes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Memory">
+            <summary>la-memory</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Menorah">
+            <summary>la-menorah</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mercury">
+            <summary>la-mercury</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Meteor">
+            <summary>la-meteor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Microchip">
+            <summary>la-microchip</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Microphone">
+            <summary>la-microphone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MicrophoneAlt">
+            <summary>la-microphone-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MicrophoneAltSlash">
+            <summary>la-microphone-alt-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MicrophoneSlash">
+            <summary>la-microphone-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Microscope">
+            <summary>la-microscope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Minus">
+            <summary>la-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MinusCircle">
+            <summary>la-minus-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MinusSquare">
+            <summary>la-minus-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mitten">
+            <summary>la-mitten</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mobile">
+            <summary>la-mobile</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MobileAlt">
+            <summary>la-mobile-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyBill">
+            <summary>la-money-bill</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyBillAlt">
+            <summary>la-money-bill-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyBillWave">
+            <summary>la-money-bill-wave</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyBillWaveAlt">
+            <summary>la-money-bill-wave-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyCheck">
+            <summary>la-money-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MoneyCheckAlt">
+            <summary>la-money-check-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Monument">
+            <summary>la-monument</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Moon">
+            <summary>la-moon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MortarPestle">
+            <summary>la-mortar-pestle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mosque">
+            <summary>la-mosque</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Motorcycle">
+            <summary>la-motorcycle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mountain">
+            <summary>la-mountain</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MousePointer">
+            <summary>la-mouse-pointer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.MugHot">
+            <summary>la-mug-hot</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Music">
+            <summary>la-music</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.NetworkWired">
+            <summary>la-network-wired</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Neuter">
+            <summary>la-neuter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Newspaper">
+            <summary>la-newspaper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.NotEqual">
+            <summary>la-not-equal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.NotesMedical">
+            <summary>la-notes-medical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ObjectGroup">
+            <summary>la-object-group</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ObjectUngroup">
+            <summary>la-object-ungroup</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.OilCan">
+            <summary>la-oil-can</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Om">
+            <summary>la-om</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Otter">
+            <summary>la-otter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Outdent">
+            <summary>la-outdent</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pager">
+            <summary>la-pager</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PaintBrush">
+            <summary>la-paint-brush</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PaintRoller">
+            <summary>la-paint-roller</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Palette">
+            <summary>la-palette</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pallet">
+            <summary>la-pallet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PaperPlane">
+            <summary>la-paper-plane</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Paperclip">
+            <summary>la-paperclip</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ParachuteBox">
+            <summary>la-parachute-box</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Paragraph">
+            <summary>la-paragraph</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Parking">
+            <summary>la-parking</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Passport">
+            <summary>la-passport</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pastafarianism">
+            <summary>la-pastafarianism</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Paste">
+            <summary>la-paste</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pause">
+            <summary>la-pause</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PauseCircle">
+            <summary>la-pause-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Paw">
+            <summary>la-paw</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Peace">
+            <summary>la-peace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pen">
+            <summary>la-pen</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PenAlt">
+            <summary>la-pen-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PenFancy">
+            <summary>la-pen-fancy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PenNib">
+            <summary>la-pen-nib</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PenSquare">
+            <summary>la-pen-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PencilAlt">
+            <summary>la-pencil-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PencilRuler">
+            <summary>la-pencil-ruler</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PeopleCarry">
+            <summary>la-people-carry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PepperHot">
+            <summary>la-pepper-hot</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Percent">
+            <summary>la-percent</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Percentage">
+            <summary>la-percentage</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PersonBooth">
+            <summary>la-person-booth</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Phone">
+            <summary>la-phone</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhoneAlt">
+            <summary>la-phone-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhoneSlash">
+            <summary>la-phone-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhoneSquare">
+            <summary>la-phone-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhoneSquareAlt">
+            <summary>la-phone-square-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhoneVolume">
+            <summary>la-phone-volume</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PhotoVideo">
+            <summary>la-photo-video</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PiggyBank">
+            <summary>la-piggy-bank</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pills">
+            <summary>la-pills</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PizzaSlice">
+            <summary>la-pizza-slice</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlaceOfWorship">
+            <summary>la-place-of-worship</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Plane">
+            <summary>la-plane</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlaneArrival">
+            <summary>la-plane-arrival</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlaneDeparture">
+            <summary>la-plane-departure</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Play">
+            <summary>la-play</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlayCircle">
+            <summary>la-play-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Plug">
+            <summary>la-plug</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Plus">
+            <summary>la-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlusCircle">
+            <summary>la-plus-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PlusSquare">
+            <summary>la-plus-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Podcast">
+            <summary>la-podcast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Poll">
+            <summary>la-poll</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PollH">
+            <summary>la-poll-h</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Poo">
+            <summary>la-poo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PooStorm">
+            <summary>la-poo-storm</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Poop">
+            <summary>la-poop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Portrait">
+            <summary>la-portrait</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PoundSign">
+            <summary>la-pound-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PowerOff">
+            <summary>la-power-off</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Pray">
+            <summary>la-pray</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PrayingHands">
+            <summary>la-praying-hands</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Prescription">
+            <summary>la-prescription</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PrescriptionBottle">
+            <summary>la-prescription-bottle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PrescriptionBottleAlt">
+            <summary>la-prescription-bottle-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Print">
+            <summary>la-print</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Procedures">
+            <summary>la-procedures</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ProjectDiagram">
+            <summary>la-project-diagram</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.PuzzlePiece">
+            <summary>la-puzzle-piece</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Qrcode">
+            <summary>la-qrcode</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Question">
+            <summary>la-question</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.QuestionCircle">
+            <summary>la-question-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Quidditch">
+            <summary>la-quidditch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.QuoteLeft">
+            <summary>la-quote-left</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.QuoteRight">
+            <summary>la-quote-right</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Quran">
+            <summary>la-quran</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Radiation">
+            <summary>la-radiation</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RadiationAlt">
+            <summary>la-radiation-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Rainbow">
+            <summary>la-rainbow</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Random">
+            <summary>la-random</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Receipt">
+            <summary>la-receipt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Recycle">
+            <summary>la-recycle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Redo">
+            <summary>la-redo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RedoAlt">
+            <summary>la-redo-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Registered">
+            <summary>la-registered</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RemoveFormat">
+            <summary>la-remove-format</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Reply">
+            <summary>la-reply</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ReplyAll">
+            <summary>la-reply-all</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Republican">
+            <summary>la-republican</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Restroom">
+            <summary>la-restroom</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Retweet">
+            <summary>la-retweet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ribbon">
+            <summary>la-ribbon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ring">
+            <summary>la-ring</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Road">
+            <summary>la-road</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Robot">
+            <summary>la-robot</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Rocket">
+            <summary>la-rocket</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Route">
+            <summary>la-route</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Rss">
+            <summary>la-rss</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RssSquare">
+            <summary>la-rss-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RubleSign">
+            <summary>la-ruble-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ruler">
+            <summary>la-ruler</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RulerCombined">
+            <summary>la-ruler-combined</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RulerHorizontal">
+            <summary>la-ruler-horizontal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RulerVertical">
+            <summary>la-ruler-vertical</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Running">
+            <summary>la-running</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RupeeSign">
+            <summary>la-rupee-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SadCry">
+            <summary>la-sad-cry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SadTear">
+            <summary>la-sad-tear</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Satellite">
+            <summary>la-satellite</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SatelliteDish">
+            <summary>la-satellite-dish</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Save">
+            <summary>la-save</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.School">
+            <summary>la-school</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Screwdriver">
+            <summary>la-screwdriver</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Scroll">
+            <summary>la-scroll</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SdCard">
+            <summary>la-sd-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Search">
+            <summary>la-search</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SearchDollar">
+            <summary>la-search-dollar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SearchLocation">
+            <summary>la-search-location</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SearchMinus">
+            <summary>la-search-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SearchPlus">
+            <summary>la-search-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Seedling">
+            <summary>la-seedling</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Server">
+            <summary>la-server</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Shapes">
+            <summary>la-shapes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Share">
+            <summary>la-share</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShareAlt">
+            <summary>la-share-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShareAltSquare">
+            <summary>la-share-alt-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShareSquare">
+            <summary>la-share-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShekelSign">
+            <summary>la-shekel-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShieldAlt">
+            <summary>la-shield-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Ship">
+            <summary>la-ship</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShippingFast">
+            <summary>la-shipping-fast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShoePrints">
+            <summary>la-shoe-prints</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShoppingBag">
+            <summary>la-shopping-bag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShoppingBasket">
+            <summary>la-shopping-basket</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShoppingCart">
+            <summary>la-shopping-cart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Shower">
+            <summary>la-shower</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ShuttleVan">
+            <summary>la-shuttle-van</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sign">
+            <summary>la-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SignInAlt">
+            <summary>la-sign-in-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SignLanguage">
+            <summary>la-sign-language</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SignOutAlt">
+            <summary>la-sign-out-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Signal">
+            <summary>la-signal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Signature">
+            <summary>la-signature</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SimCard">
+            <summary>la-sim-card</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sitemap">
+            <summary>la-sitemap</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Skating">
+            <summary>la-skating</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Skiing">
+            <summary>la-skiing</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SkiingNordic">
+            <summary>la-skiing-nordic</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Skull">
+            <summary>la-skull</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SkullCrossbones">
+            <summary>la-skull-crossbones</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Slash">
+            <summary>la-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sleigh">
+            <summary>la-sleigh</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SlidersH">
+            <summary>la-sliders-h</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Smile">
+            <summary>la-smile</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SmileBeam">
+            <summary>la-smile-beam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SmileWink">
+            <summary>la-smile-wink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Smog">
+            <summary>la-smog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Smoking">
+            <summary>la-smoking</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SmokingBan">
+            <summary>la-smoking-ban</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sms">
+            <summary>la-sms</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Snowboarding">
+            <summary>la-snowboarding</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Snowflake">
+            <summary>la-snowflake</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Snowman">
+            <summary>la-snowman</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Snowplow">
+            <summary>la-snowplow</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Socks">
+            <summary>la-socks</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SolarPanel">
+            <summary>la-solar-panel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sort">
+            <summary>la-sort</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAlphaDown">
+            <summary>la-sort-alpha-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAlphaDownAlt">
+            <summary>la-sort-alpha-down-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAlphaUp">
+            <summary>la-sort-alpha-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAlphaUpAlt">
+            <summary>la-sort-alpha-up-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAmountDown">
+            <summary>la-sort-amount-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAmountDownAlt">
+            <summary>la-sort-amount-down-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAmountUp">
+            <summary>la-sort-amount-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortAmountUpAlt">
+            <summary>la-sort-amount-up-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortDown">
+            <summary>la-sort-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortNumericDown">
+            <summary>la-sort-numeric-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortNumericDownAlt">
+            <summary>la-sort-numeric-down-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortNumericUp">
+            <summary>la-sort-numeric-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortNumericUpAlt">
+            <summary>la-sort-numeric-up-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SortUp">
+            <summary>la-sort-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Spa">
+            <summary>la-spa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SpaceShuttle">
+            <summary>la-space-shuttle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SpellCheck">
+            <summary>la-spell-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Spider">
+            <summary>la-spider</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Spinner">
+            <summary>la-spinner</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Splotch">
+            <summary>la-splotch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SprayCan">
+            <summary>la-spray-can</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Square">
+            <summary>la-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SquareFull">
+            <summary>la-square-full</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SquareRootAlt">
+            <summary>la-square-root-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stamp">
+            <summary>la-stamp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Star">
+            <summary>la-star</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StarAndCrescent">
+            <summary>la-star-and-crescent</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StarHalf">
+            <summary>la-star-half</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StarHalfAlt">
+            <summary>la-star-half-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StarOfDavid">
+            <summary>la-star-of-david</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StarOfLife">
+            <summary>la-star-of-life</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StepBackward">
+            <summary>la-step-backward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StepForward">
+            <summary>la-step-forward</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stethoscope">
+            <summary>la-stethoscope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StickyNote">
+            <summary>la-sticky-note</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stop">
+            <summary>la-stop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StopCircle">
+            <summary>la-stop-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stopwatch">
+            <summary>la-stopwatch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Store">
+            <summary>la-store</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StoreAlt">
+            <summary>la-store-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stream">
+            <summary>la-stream</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.StreetView">
+            <summary>la-street-view</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Strikethrough">
+            <summary>la-strikethrough</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Stroopwafel">
+            <summary>la-stroopwafel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Subscript">
+            <summary>la-subscript</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Subway">
+            <summary>la-subway</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Suitcase">
+            <summary>la-suitcase</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SuitcaseRolling">
+            <summary>la-suitcase-rolling</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sun">
+            <summary>la-sun</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Superscript">
+            <summary>la-superscript</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Surprise">
+            <summary>la-surprise</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Swatchbook">
+            <summary>la-swatchbook</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Swimmer">
+            <summary>la-swimmer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SwimmingPool">
+            <summary>la-swimming-pool</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Synagogue">
+            <summary>la-synagogue</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Sync">
+            <summary>la-sync</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.SyncAlt">
+            <summary>la-sync-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Syringe">
+            <summary>la-syringe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Table">
+            <summary>la-table</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TableTennis">
+            <summary>la-table-tennis</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tablet">
+            <summary>la-tablet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TabletAlt">
+            <summary>la-tablet-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tablets">
+            <summary>la-tablets</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TachometerAlt">
+            <summary>la-tachometer-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tag">
+            <summary>la-tag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tags">
+            <summary>la-tags</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tape">
+            <summary>la-tape</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tasks">
+            <summary>la-tasks</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Taxi">
+            <summary>la-taxi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Teeth">
+            <summary>la-teeth</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TeethOpen">
+            <summary>la-teeth-open</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TemperatureHigh">
+            <summary>la-temperature-high</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TemperatureLow">
+            <summary>la-temperature-low</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tenge">
+            <summary>la-tenge</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Terminal">
+            <summary>la-terminal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TextHeight">
+            <summary>la-text-height</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TextWidth">
+            <summary>la-text-width</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Th">
+            <summary>la-th</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThLarge">
+            <summary>la-th-large</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThList">
+            <summary>la-th-list</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TheaterMasks">
+            <summary>la-theater-masks</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Thermometer">
+            <summary>la-thermometer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThermometerEmpty">
+            <summary>la-thermometer-empty</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThermometerFull">
+            <summary>la-thermometer-full</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThermometerHalf">
+            <summary>la-thermometer-half</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThermometerQuarter">
+            <summary>la-thermometer-quarter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThermometerThreeQuarters">
+            <summary>la-thermometer-three-quarters</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThumbsDown">
+            <summary>la-thumbs-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ThumbsUp">
+            <summary>la-thumbs-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Thumbtack">
+            <summary>la-thumbtack</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TicketAlt">
+            <summary>la-ticket-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Times">
+            <summary>la-times</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TimesCircle">
+            <summary>la-times-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tint">
+            <summary>la-tint</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TintSlash">
+            <summary>la-tint-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tired">
+            <summary>la-tired</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ToggleOff">
+            <summary>la-toggle-off</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ToggleOn">
+            <summary>la-toggle-on</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Toilet">
+            <summary>la-toilet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ToiletPaper">
+            <summary>la-toilet-paper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Toolbox">
+            <summary>la-toolbox</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tools">
+            <summary>la-tools</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tooth">
+            <summary>la-tooth</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Torah">
+            <summary>la-torah</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.ToriiGate">
+            <summary>la-torii-gate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tractor">
+            <summary>la-tractor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Trademark">
+            <summary>la-trademark</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TrafficLight">
+            <summary>la-traffic-light</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Train">
+            <summary>la-train</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tram">
+            <summary>la-tram</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Transgender">
+            <summary>la-transgender</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TransgenderAlt">
+            <summary>la-transgender-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Trash">
+            <summary>la-trash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TrashAlt">
+            <summary>la-trash-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TrashRestore">
+            <summary>la-trash-restore</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TrashRestoreAlt">
+            <summary>la-trash-restore-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tree">
+            <summary>la-tree</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Trophy">
+            <summary>la-trophy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Truck">
+            <summary>la-truck</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TruckLoading">
+            <summary>la-truck-loading</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TruckMonster">
+            <summary>la-truck-monster</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TruckMoving">
+            <summary>la-truck-moving</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.TruckPickup">
+            <summary>la-truck-pickup</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tshirt">
+            <summary>la-tshirt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tty">
+            <summary>la-tty</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Tv">
+            <summary>la-tv</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Umbrella">
+            <summary>la-umbrella</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UmbrellaBeach">
+            <summary>la-umbrella-beach</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Underline">
+            <summary>la-underline</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Undo">
+            <summary>la-undo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UndoAlt">
+            <summary>la-undo-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UniversalAccess">
+            <summary>la-universal-access</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.University">
+            <summary>la-university</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Unlink">
+            <summary>la-unlink</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Unlock">
+            <summary>la-unlock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UnlockAlt">
+            <summary>la-unlock-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Upload">
+            <summary>la-upload</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.User">
+            <summary>la-user</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserAlt">
+            <summary>la-user-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserAltSlash">
+            <summary>la-user-alt-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserAstronaut">
+            <summary>la-user-astronaut</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserCheck">
+            <summary>la-user-check</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserCircle">
+            <summary>la-user-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserClock">
+            <summary>la-user-clock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserCog">
+            <summary>la-user-cog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserEdit">
+            <summary>la-user-edit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserFriends">
+            <summary>la-user-friends</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserGraduate">
+            <summary>la-user-graduate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserInjured">
+            <summary>la-user-injured</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserLock">
+            <summary>la-user-lock</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserMd">
+            <summary>la-user-md</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserMinus">
+            <summary>la-user-minus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserNinja">
+            <summary>la-user-ninja</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserNurse">
+            <summary>la-user-nurse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserPlus">
+            <summary>la-user-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserSecret">
+            <summary>la-user-secret</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserShield">
+            <summary>la-user-shield</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserSlash">
+            <summary>la-user-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserTag">
+            <summary>la-user-tag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserTie">
+            <summary>la-user-tie</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UserTimes">
+            <summary>la-user-times</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Users">
+            <summary>la-users</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UsersCog">
+            <summary>la-users-cog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.UtensilSpoon">
+            <summary>la-utensil-spoon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Utensils">
+            <summary>la-utensils</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VectorSquare">
+            <summary>la-vector-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Venus">
+            <summary>la-venus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VenusDouble">
+            <summary>la-venus-double</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VenusMars">
+            <summary>la-venus-mars</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Vial">
+            <summary>la-vial</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Vials">
+            <summary>la-vials</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Video">
+            <summary>la-video</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VideoSlash">
+            <summary>la-video-slash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Vihara">
+            <summary>la-vihara</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Voicemail">
+            <summary>la-voicemail</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VolleyballBall">
+            <summary>la-volleyball-ball</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VolumeDown">
+            <summary>la-volume-down</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VolumeMute">
+            <summary>la-volume-mute</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VolumeOff">
+            <summary>la-volume-off</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VolumeUp">
+            <summary>la-volume-up</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VoteYea">
+            <summary>la-vote-yea</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.VrCardboard">
+            <summary>la-vr-cardboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Walking">
+            <summary>la-walking</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Wallet">
+            <summary>la-wallet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Warehouse">
+            <summary>la-warehouse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Water">
+            <summary>la-water</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WaveSquare">
+            <summary>la-wave-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Weight">
+            <summary>la-weight</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WeightHanging">
+            <summary>la-weight-hanging</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Wheelchair">
+            <summary>la-wheelchair</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Wifi">
+            <summary>la-wifi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Wind">
+            <summary>la-wind</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WindowClose">
+            <summary>la-window-close</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WindowMaximize">
+            <summary>la-window-maximize</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WindowMinimize">
+            <summary>la-window-minimize</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WindowRestore">
+            <summary>la-window-restore</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WineBottle">
+            <summary>la-wine-bottle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WineGlass">
+            <summary>la-wine-glass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WineGlassAlt">
+            <summary>la-wine-glass-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.WonSign">
+            <summary>la-won-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Wrench">
+            <summary>la-wrench</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.XRay">
+            <summary>la-x-ray</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.YenSign">
+            <summary>la-yen-sign</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.YinYang">
+            <summary>la-yin-yang</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HatCowboy">
+            <summary>la-hat-cowboy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.HatCowboySide">
+            <summary>la-hat-cowboy-side</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.Mouse">
+            <summary>la-mouse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Solid.Icon.RecordVinyl">
+            <summary>la-record-vinyl</summary>
+        </member>
+    </members>
+</doc>

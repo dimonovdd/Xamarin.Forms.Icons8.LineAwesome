@@ -1,8 +1,8 @@
 ﻿
-namespace Icons8.LineAwesome
+namespace Icons8.LineAwesome.Regular
 {
     /// <summary>Regular Icons</summary>
-    public enum IconRegular
+    public enum Icon
     {
         /// <summary>la-address-book</summary>
         AddressBook = '\uf2b9',

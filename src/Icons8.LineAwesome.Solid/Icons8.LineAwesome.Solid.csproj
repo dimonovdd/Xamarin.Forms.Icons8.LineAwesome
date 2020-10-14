@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <AssemblyName>Icons8.LineAwesome.Solid</AssemblyName>
+    <RootNamespace>Icons8.LineAwesome.Solid</RootNamespace>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Authors>dimonovdd</Authors>
+    <Description>Implementation Icons8 LineAwesome For Xamarin.Forms
+https://icons8.com/line-awesome</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</RepositoryUrl>
+    <PackageTags>Xamarin.Forms, Icon, IconFont, Icons8</PackageTags>
+    <Version>1.0.0.0</Version>
+    <PackageIcon>icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;1591</NoWarn>
+    <DocumentationFile>D:\source\repos\Xamarin.Forms.Icons8.LineAwesome\src\Icons8.LineAwesome.Solid\Icons8.LineAwesome.Solid.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LineAwesome\la-solid-900.ttf" />
+    <None Include="..\..\icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="LineAwesome\la-solid-900.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.6.0.726" />
+    <PackageReference Include="Xamarin.Forms.IconFontHelper" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,8 +1,8 @@
 ﻿
-namespace Icons8.LineAwesome
+namespace Icons8.LineAwesome.Solid
 {
     /// <summary>Solid Icons</summary>
-    public enum IconSolid
+    public enum Icon
     {
         /// <summary>la-ad</summary>
         Ad = '\uf641',

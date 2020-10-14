@@ -1,8 +1,8 @@
 ﻿
-namespace Icons8.LineAwesome
+namespace Icons8.LineAwesome.Brand
 {
     /// <summary>Brand Icons</summary>
-    public enum IconBrand
+    public enum Icon
     {
         /// <summary>la-500px</summary>
         _500px = '\uf26e',

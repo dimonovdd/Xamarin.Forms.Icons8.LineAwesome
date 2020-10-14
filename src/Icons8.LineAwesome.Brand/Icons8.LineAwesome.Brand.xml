@@ -1,0 +1,1310 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Icons8.LineAwesome.Brand</name>
+    </assembly>
+    <members>
+        <member name="T:Icons8.LineAwesome.Brand.Icon">
+            <summary>Brand Icons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon._500px">
+            <summary>la-500px</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.AccessibleIcon">
+            <summary>la-accessible-icon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Accusoft">
+            <summary>la-accusoft</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.AcquisitionsIncorporated">
+            <summary>la-acquisitions-incorporated</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Adn">
+            <summary>la-adn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Adobe">
+            <summary>la-adobe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Adversal">
+            <summary>la-adversal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Affiliatetheme">
+            <summary>la-affiliatetheme</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Airbnb">
+            <summary>la-airbnb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Algolia">
+            <summary>la-algolia</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Alipay">
+            <summary>la-alipay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Amazon">
+            <summary>la-amazon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.AmazonPay">
+            <summary>la-amazon-pay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Amilia">
+            <summary>la-amilia</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Android">
+            <summary>la-android</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Angellist">
+            <summary>la-angellist</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Angrycreative">
+            <summary>la-angrycreative</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Angular">
+            <summary>la-angular</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.AppStore">
+            <summary>la-app-store</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.AppStoreIos">
+            <summary>la-app-store-ios</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Apper">
+            <summary>la-apper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Apple">
+            <summary>la-apple</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ApplePay">
+            <summary>la-apple-pay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Artstation">
+            <summary>la-artstation</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Asymmetrik">
+            <summary>la-asymmetrik</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Atlassian">
+            <summary>la-atlassian</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Audible">
+            <summary>la-audible</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Autoprefixer">
+            <summary>la-autoprefixer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Avianex">
+            <summary>la-avianex</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Aviato">
+            <summary>la-aviato</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Aws">
+            <summary>la-aws</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bandcamp">
+            <summary>la-bandcamp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BattleNet">
+            <summary>la-battle-net</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Behance">
+            <summary>la-behance</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BehanceSquare">
+            <summary>la-behance-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bimobject">
+            <summary>la-bimobject</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bitbucket">
+            <summary>la-bitbucket</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bitcoin">
+            <summary>la-bitcoin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bity">
+            <summary>la-bity</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BlackTie">
+            <summary>la-black-tie</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Blackberry">
+            <summary>la-blackberry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Blogger">
+            <summary>la-blogger</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BloggerB">
+            <summary>la-blogger-b</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bluetooth">
+            <summary>la-bluetooth</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BluetoothB">
+            <summary>la-bluetooth-b</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Bootstrap">
+            <summary>la-bootstrap</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Btc">
+            <summary>la-btc</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Buffer">
+            <summary>la-buffer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Buromobelexperte">
+            <summary>la-buromobelexperte</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Buysellads">
+            <summary>la-buysellads</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CanadianMapleLeaf">
+            <summary>la-canadian-maple-leaf</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcAmazonPay">
+            <summary>la-cc-amazon-pay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcAmex">
+            <summary>la-cc-amex</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcApplePay">
+            <summary>la-cc-apple-pay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcDinersClub">
+            <summary>la-cc-diners-club</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcDiscover">
+            <summary>la-cc-discover</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcJcb">
+            <summary>la-cc-jcb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcMastercard">
+            <summary>la-cc-mastercard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcPaypal">
+            <summary>la-cc-paypal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcStripe">
+            <summary>la-cc-stripe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CcVisa">
+            <summary>la-cc-visa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Centercode">
+            <summary>la-centercode</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Centos">
+            <summary>la-centos</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Chrome">
+            <summary>la-chrome</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Chromecast">
+            <summary>la-chromecast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Cloudscale">
+            <summary>la-cloudscale</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Cloudsmith">
+            <summary>la-cloudsmith</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Cloudversify">
+            <summary>la-cloudversify</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Codepen">
+            <summary>la-codepen</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Codiepie">
+            <summary>la-codiepie</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Confluence">
+            <summary>la-confluence</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Connectdevelop">
+            <summary>la-connectdevelop</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Contao">
+            <summary>la-contao</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CottonBureau">
+            <summary>la-cotton-bureau</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Cpanel">
+            <summary>la-cpanel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommons">
+            <summary>la-creative-commons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsBy">
+            <summary>la-creative-commons-by</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsNc">
+            <summary>la-creative-commons-nc</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsNcEu">
+            <summary>la-creative-commons-nc-eu</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsNcJp">
+            <summary>la-creative-commons-nc-jp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsNd">
+            <summary>la-creative-commons-nd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsPd">
+            <summary>la-creative-commons-pd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsPdAlt">
+            <summary>la-creative-commons-pd-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsRemix">
+            <summary>la-creative-commons-remix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsSa">
+            <summary>la-creative-commons-sa</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsSampling">
+            <summary>la-creative-commons-sampling</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsSamplingPlus">
+            <summary>la-creative-commons-sampling-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsShare">
+            <summary>la-creative-commons-share</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CreativeCommonsZero">
+            <summary>la-creative-commons-zero</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.CriticalRole">
+            <summary>la-critical-role</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Css3">
+            <summary>la-css3</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Css3Alt">
+            <summary>la-css3-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Cuttlefish">
+            <summary>la-cuttlefish</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.DAndD">
+            <summary>la-d-and-d</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.DAndDBeyond">
+            <summary>la-d-and-d-beyond</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dashcube">
+            <summary>la-dashcube</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Delicious">
+            <summary>la-delicious</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Deploydog">
+            <summary>la-deploydog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Deskpro">
+            <summary>la-deskpro</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dev">
+            <summary>la-dev</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Deviantart">
+            <summary>la-deviantart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dhl">
+            <summary>la-dhl</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Diaspora">
+            <summary>la-diaspora</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Digg">
+            <summary>la-digg</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.DigitalOcean">
+            <summary>la-digital-ocean</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Discord">
+            <summary>la-discord</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Discourse">
+            <summary>la-discourse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dochub">
+            <summary>la-dochub</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Docker">
+            <summary>la-docker</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Draft2digital">
+            <summary>la-draft2digital</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dribbble">
+            <summary>la-dribbble</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.DribbbleSquare">
+            <summary>la-dribbble-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dropbox">
+            <summary>la-dropbox</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Drupal">
+            <summary>la-drupal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Dyalog">
+            <summary>la-dyalog</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Earlybirds">
+            <summary>la-earlybirds</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ebay">
+            <summary>la-ebay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Edge">
+            <summary>la-edge</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Elementor">
+            <summary>la-elementor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ello">
+            <summary>la-ello</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ember">
+            <summary>la-ember</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Empire">
+            <summary>la-empire</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Envira">
+            <summary>la-envira</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Erlang">
+            <summary>la-erlang</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ethereum">
+            <summary>la-ethereum</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Etsy">
+            <summary>la-etsy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Evernote">
+            <summary>la-evernote</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Expeditedssl">
+            <summary>la-expeditedssl</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Facebook">
+            <summary>la-facebook</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FacebookF">
+            <summary>la-facebook-f</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FacebookMessenger">
+            <summary>la-facebook-messenger</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FacebookSquare">
+            <summary>la-facebook-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FantasyFlightGames">
+            <summary>la-fantasy-flight-games</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Fedex">
+            <summary>la-fedex</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Fedora">
+            <summary>la-fedora</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Figma">
+            <summary>la-figma</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Firefox">
+            <summary>la-firefox</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FirstOrder">
+            <summary>la-first-order</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FirstOrderAlt">
+            <summary>la-first-order-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Firstdraft">
+            <summary>la-firstdraft</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Flickr">
+            <summary>la-flickr</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Flipboard">
+            <summary>la-flipboard</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Fly">
+            <summary>la-fly</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FontAwesome">
+            <summary>la-font-awesome</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FontAwesomeAlt">
+            <summary>la-font-awesome-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FontAwesomeFlag">
+            <summary>la-font-awesome-flag</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Fonticons">
+            <summary>la-fonticons</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FonticonsFi">
+            <summary>la-fonticons-fi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FortAwesome">
+            <summary>la-fort-awesome</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FortAwesomeAlt">
+            <summary>la-fort-awesome-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Forumbee">
+            <summary>la-forumbee</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Foursquare">
+            <summary>la-foursquare</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.FreeCodeCamp">
+            <summary>la-free-code-camp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Freebsd">
+            <summary>la-freebsd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Fulcrum">
+            <summary>la-fulcrum</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GalacticRepublic">
+            <summary>la-galactic-republic</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GalacticSenate">
+            <summary>la-galactic-senate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GetPocket">
+            <summary>la-get-pocket</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gg">
+            <summary>la-gg</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GgCircle">
+            <summary>la-gg-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Git">
+            <summary>la-git</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GitAlt">
+            <summary>la-git-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GitSquare">
+            <summary>la-git-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Github">
+            <summary>la-github</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GithubAlt">
+            <summary>la-github-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GithubSquare">
+            <summary>la-github-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gitkraken">
+            <summary>la-gitkraken</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gitlab">
+            <summary>la-gitlab</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gitter">
+            <summary>la-gitter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Glide">
+            <summary>la-glide</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GlideG">
+            <summary>la-glide-g</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gofore">
+            <summary>la-gofore</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Goodreads">
+            <summary>la-goodreads</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GoodreadsG">
+            <summary>la-goodreads-g</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Google">
+            <summary>la-google</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GoogleDrive">
+            <summary>la-google-drive</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GooglePlay">
+            <summary>la-google-play</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GooglePlus">
+            <summary>la-google-plus</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GooglePlusG">
+            <summary>la-google-plus-g</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GooglePlusSquare">
+            <summary>la-google-plus-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.GoogleWallet">
+            <summary>la-google-wallet</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gratipay">
+            <summary>la-gratipay</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Grav">
+            <summary>la-grav</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gripfire">
+            <summary>la-gripfire</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Grunt">
+            <summary>la-grunt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Gulp">
+            <summary>la-gulp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.HackerNews">
+            <summary>la-hacker-news</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.HackerNewsSquare">
+            <summary>la-hacker-news-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hackerrank">
+            <summary>la-hackerrank</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hips">
+            <summary>la-hips</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.HireAHelper">
+            <summary>la-hire-a-helper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hooli">
+            <summary>la-hooli</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hornbill">
+            <summary>la-hornbill</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hotjar">
+            <summary>la-hotjar</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Houzz">
+            <summary>la-houzz</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Html5">
+            <summary>la-html5</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Hubspot">
+            <summary>la-hubspot</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Imdb">
+            <summary>la-imdb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Instagram">
+            <summary>la-instagram</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Intercom">
+            <summary>la-intercom</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.InternetExplorer">
+            <summary>la-internet-explorer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Invision">
+            <summary>la-invision</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ioxhost">
+            <summary>la-ioxhost</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ItchIo">
+            <summary>la-itch-io</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Itunes">
+            <summary>la-itunes</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ItunesNote">
+            <summary>la-itunes-note</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Java">
+            <summary>la-java</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.JediOrder">
+            <summary>la-jedi-order</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Jenkins">
+            <summary>la-jenkins</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Jira">
+            <summary>la-jira</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Joget">
+            <summary>la-joget</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Joomla">
+            <summary>la-joomla</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Js">
+            <summary>la-js</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.JsSquare">
+            <summary>la-js-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Jsfiddle">
+            <summary>la-jsfiddle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Kaggle">
+            <summary>la-kaggle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Keybase">
+            <summary>la-keybase</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Keycdn">
+            <summary>la-keycdn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Kickstarter">
+            <summary>la-kickstarter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.KickstarterK">
+            <summary>la-kickstarter-k</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Korvue">
+            <summary>la-korvue</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Laravel">
+            <summary>la-laravel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Lastfm">
+            <summary>la-lastfm</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.LastfmSquare">
+            <summary>la-lastfm-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Leanpub">
+            <summary>la-leanpub</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Less">
+            <summary>la-less</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Line">
+            <summary>la-line</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Linkedin">
+            <summary>la-linkedin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.LinkedinIn">
+            <summary>la-linkedin-in</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Linode">
+            <summary>la-linode</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Linux">
+            <summary>la-linux</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Lyft">
+            <summary>la-lyft</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Magento">
+            <summary>la-magento</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mailchimp">
+            <summary>la-mailchimp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mandalorian">
+            <summary>la-mandalorian</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Markdown">
+            <summary>la-markdown</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mastodon">
+            <summary>la-mastodon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Maxcdn">
+            <summary>la-maxcdn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Medapps">
+            <summary>la-medapps</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Medium">
+            <summary>la-medium</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.MediumM">
+            <summary>la-medium-m</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Medrt">
+            <summary>la-medrt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Meetup">
+            <summary>la-meetup</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Megaport">
+            <summary>la-megaport</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mendeley">
+            <summary>la-mendeley</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Microsoft">
+            <summary>la-microsoft</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mix">
+            <summary>la-mix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mixcloud">
+            <summary>la-mixcloud</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mizuni">
+            <summary>la-mizuni</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Modx">
+            <summary>la-modx</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Monero">
+            <summary>la-monero</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Napster">
+            <summary>la-napster</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Neos">
+            <summary>la-neos</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Nimblr">
+            <summary>la-nimblr</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Node">
+            <summary>la-node</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.NodeJs">
+            <summary>la-node-js</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Npm">
+            <summary>la-npm</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ns8">
+            <summary>la-ns8</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Nutritionix">
+            <summary>la-nutritionix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Odnoklassniki">
+            <summary>la-odnoklassniki</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.OdnoklassnikiSquare">
+            <summary>la-odnoklassniki-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.OldRepublic">
+            <summary>la-old-republic</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Opencart">
+            <summary>la-opencart</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Openid">
+            <summary>la-openid</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Opera">
+            <summary>la-opera</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.OptinMonster">
+            <summary>la-optin-monster</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Osi">
+            <summary>la-osi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Page4">
+            <summary>la-page4</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Pagelines">
+            <summary>la-pagelines</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Palfed">
+            <summary>la-palfed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Patreon">
+            <summary>la-patreon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Paypal">
+            <summary>la-paypal</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PennyArcade">
+            <summary>la-penny-arcade</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Periscope">
+            <summary>la-periscope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Phabricator">
+            <summary>la-phabricator</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PhoenixFramework">
+            <summary>la-phoenix-framework</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PhoenixSquadron">
+            <summary>la-phoenix-squadron</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Php">
+            <summary>la-php</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PiedPiper">
+            <summary>la-pied-piper</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PiedPiperAlt">
+            <summary>la-pied-piper-alt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PiedPiperHat">
+            <summary>la-pied-piper-hat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PiedPiperPp">
+            <summary>la-pied-piper-pp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Pinterest">
+            <summary>la-pinterest</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PinterestP">
+            <summary>la-pinterest-p</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.PinterestSquare">
+            <summary>la-pinterest-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Playstation">
+            <summary>la-playstation</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ProductHunt">
+            <summary>la-product-hunt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Pushed">
+            <summary>la-pushed</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Python">
+            <summary>la-python</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Qq">
+            <summary>la-qq</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Quinscape">
+            <summary>la-quinscape</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Quora">
+            <summary>la-quora</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.RProject">
+            <summary>la-r-project</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.RaspberryPi">
+            <summary>la-raspberry-pi</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ravelry">
+            <summary>la-ravelry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.React">
+            <summary>la-react</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Reacteurope">
+            <summary>la-reacteurope</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Readme">
+            <summary>la-readme</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Rebel">
+            <summary>la-rebel</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.RedRiver">
+            <summary>la-red-river</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Reddit">
+            <summary>la-reddit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.RedditAlien">
+            <summary>la-reddit-alien</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.RedditSquare">
+            <summary>la-reddit-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Redhat">
+            <summary>la-redhat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Renren">
+            <summary>la-renren</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Replyd">
+            <summary>la-replyd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Researchgate">
+            <summary>la-researchgate</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Resolving">
+            <summary>la-resolving</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Rev">
+            <summary>la-rev</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Rocketchat">
+            <summary>la-rocketchat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Rockrms">
+            <summary>la-rockrms</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Safari">
+            <summary>la-safari</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Salesforce">
+            <summary>la-salesforce</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sass">
+            <summary>la-sass</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Schlix">
+            <summary>la-schlix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Scribd">
+            <summary>la-scribd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Searchengin">
+            <summary>la-searchengin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sellcast">
+            <summary>la-sellcast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sellsy">
+            <summary>la-sellsy</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Servicestack">
+            <summary>la-servicestack</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Shirtsinbulk">
+            <summary>la-shirtsinbulk</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Shopware">
+            <summary>la-shopware</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Simplybuilt">
+            <summary>la-simplybuilt</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sistrix">
+            <summary>la-sistrix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sith">
+            <summary>la-sith</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sketch">
+            <summary>la-sketch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Skyatlas">
+            <summary>la-skyatlas</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Skype">
+            <summary>la-skype</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Slack">
+            <summary>la-slack</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SlackHash">
+            <summary>la-slack-hash</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Slideshare">
+            <summary>la-slideshare</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Snapchat">
+            <summary>la-snapchat</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SnapchatGhost">
+            <summary>la-snapchat-ghost</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SnapchatSquare">
+            <summary>la-snapchat-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Soundcloud">
+            <summary>la-soundcloud</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Sourcetree">
+            <summary>la-sourcetree</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Speakap">
+            <summary>la-speakap</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SpeakerDeck">
+            <summary>la-speaker-deck</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Spotify">
+            <summary>la-spotify</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Squarespace">
+            <summary>la-squarespace</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.StackExchange">
+            <summary>la-stack-exchange</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.StackOverflow">
+            <summary>la-stack-overflow</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Stackpath">
+            <summary>la-stackpath</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Staylinked">
+            <summary>la-staylinked</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Steam">
+            <summary>la-steam</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SteamSquare">
+            <summary>la-steam-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.SteamSymbol">
+            <summary>la-steam-symbol</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.StickerMule">
+            <summary>la-sticker-mule</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Strava">
+            <summary>la-strava</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Stripe">
+            <summary>la-stripe</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.StripeS">
+            <summary>la-stripe-s</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Studiovinari">
+            <summary>la-studiovinari</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Stumbleupon">
+            <summary>la-stumbleupon</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.StumbleuponCircle">
+            <summary>la-stumbleupon-circle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Superpowers">
+            <summary>la-superpowers</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Supple">
+            <summary>la-supple</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Suse">
+            <summary>la-suse</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Symfony">
+            <summary>la-symfony</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Teamspeak">
+            <summary>la-teamspeak</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Telegram">
+            <summary>la-telegram</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TelegramPlane">
+            <summary>la-telegram-plane</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TencentWeibo">
+            <summary>la-tencent-weibo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TheRedYeti">
+            <summary>la-the-red-yeti</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Themeco">
+            <summary>la-themeco</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Themeisle">
+            <summary>la-themeisle</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ThinkPeaks">
+            <summary>la-think-peaks</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TradeFederation">
+            <summary>la-trade-federation</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Trello">
+            <summary>la-trello</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Tripadvisor">
+            <summary>la-tripadvisor</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Tumblr">
+            <summary>la-tumblr</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TumblrSquare">
+            <summary>la-tumblr-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Twitch">
+            <summary>la-twitch</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Twitter">
+            <summary>la-twitter</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.TwitterSquare">
+            <summary>la-twitter-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Typo3">
+            <summary>la-typo3</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Uber">
+            <summary>la-uber</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ubuntu">
+            <summary>la-ubuntu</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Uikit">
+            <summary>la-uikit</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Uniregistry">
+            <summary>la-uniregistry</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Untappd">
+            <summary>la-untappd</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ups">
+            <summary>la-ups</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Usb">
+            <summary>la-usb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Usps">
+            <summary>la-usps</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Ussunnah">
+            <summary>la-ussunnah</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vaadin">
+            <summary>la-vaadin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Viacoin">
+            <summary>la-viacoin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Viadeo">
+            <summary>la-viadeo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.ViadeoSquare">
+            <summary>la-viadeo-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Viber">
+            <summary>la-viber</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vimeo">
+            <summary>la-vimeo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.VimeoSquare">
+            <summary>la-vimeo-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.VimeoV">
+            <summary>la-vimeo-v</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vine">
+            <summary>la-vine</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vk">
+            <summary>la-vk</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vnv">
+            <summary>la-vnv</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Vuejs">
+            <summary>la-vuejs</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Waze">
+            <summary>la-waze</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Weebly">
+            <summary>la-weebly</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Weibo">
+            <summary>la-weibo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Weixin">
+            <summary>la-weixin</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Whatsapp">
+            <summary>la-whatsapp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.WhatsappSquare">
+            <summary>la-whatsapp-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Whmcs">
+            <summary>la-whmcs</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.WikipediaW">
+            <summary>la-wikipedia-w</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Windows">
+            <summary>la-windows</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wix">
+            <summary>la-wix</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.WizardsOfTheCoast">
+            <summary>la-wizards-of-the-coast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.WolfPackBattalion">
+            <summary>la-wolf-pack-battalion</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wordpress">
+            <summary>la-wordpress</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.WordpressSimple">
+            <summary>la-wordpress-simple</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wpbeginner">
+            <summary>la-wpbeginner</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wpexplorer">
+            <summary>la-wpexplorer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wpforms">
+            <summary>la-wpforms</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Wpressr">
+            <summary>la-wpressr</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Xbox">
+            <summary>la-xbox</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Xing">
+            <summary>la-xing</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.XingSquare">
+            <summary>la-xing-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.YCombinator">
+            <summary>la-y-combinator</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yahoo">
+            <summary>la-yahoo</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yammer">
+            <summary>la-yammer</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yandex">
+            <summary>la-yandex</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.YandexInternational">
+            <summary>la-yandex-international</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yarn">
+            <summary>la-yarn</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yelp">
+            <summary>la-yelp</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Yoast">
+            <summary>la-yoast</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Youtube">
+            <summary>la-youtube</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.YoutubeSquare">
+            <summary>la-youtube-square</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Zhihu">
+            <summary>la-zhihu</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Mdb">
+            <summary>la-mdb</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Orcid">
+            <summary>la-orcid</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Swift">
+            <summary>la-swift</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.Umbraco">
+            <summary>la-umbraco</summary>
+        </member>
+        <member name="F:Icons8.LineAwesome.Brand.Icon.BuyNLarge">
+            <summary>la-buy-n-large</summary>
+        </member>
+    </members>
+</doc>

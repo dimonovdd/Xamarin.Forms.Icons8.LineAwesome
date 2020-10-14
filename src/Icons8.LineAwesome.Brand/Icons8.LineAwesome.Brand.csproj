@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Icons8.LineAwesome.Brand</RootNamespace>
+    <AssemblyName>Icons8.LineAwesome.Brand</AssemblyName>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Authors>dimonovdd</Authors>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Description>Implementation Icons8 LineAwesome For Xamarin.Forms
+https://icons8.com/line-awesome</Description>
+    <PackageProjectUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</RepositoryUrl>
+    <PackageTags>Xamarin.Forms, Icon, IconFont, Icons8</PackageTags>
+    <Version>1.0.0.0</Version>
+    <PackageIcon>icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;1591</NoWarn>
+    <DocumentationFile>D:\source\repos\Xamarin.Forms.Icons8.LineAwesome\src\Icons8.LineAwesome.Brand\Icons8.LineAwesome.Brand.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="la-brands-400.ttf" />
+    <None Include="..\..\icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="LineAwesome\la-brands-400.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.6.0.726" />
+    <PackageReference Include="Xamarin.Forms.IconFontHelper" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
