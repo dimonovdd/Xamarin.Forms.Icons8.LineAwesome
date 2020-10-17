@@ -9,7 +9,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <Description>Implementation Icons8 LineAwesome For Xamarin.Forms
+    <Description>Icons8 LineAwesome Implementation For Xamarin.Forms
 https://icons8.com/line-awesome</Description>
     <PackageProjectUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome</RepositoryUrl>

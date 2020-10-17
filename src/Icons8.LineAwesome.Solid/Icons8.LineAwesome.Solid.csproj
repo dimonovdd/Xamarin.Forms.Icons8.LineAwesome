@@ -7,7 +7,7 @@
     <RootNamespace>Icons8.LineAwesome.Solid</RootNamespace>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Authors>dimonovdd</Authors>
-    <Description>Implementation Icons8 LineAwesome For Xamarin.Forms
+    <Description>Icons8 LineAwesome Implementation For Xamarin.Forms
 https://icons8.com/line-awesome</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
