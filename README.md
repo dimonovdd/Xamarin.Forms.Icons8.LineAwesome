@@ -1,4 +1,6 @@
-# Xamarin.Forms.Icons8.LineAwesome <img src="/icon.png" width="45" height="40"/>
+# Xamarin.Forms.Icons8.LineAwesome
+
+![header](/header.svg)
 
 This package is a simple implementation of the beautiful Icons Font ["Icons8 LineAwesome"](https://icons8.com/line-awesome) For Xamarin.Forms [*(Screenshot)*](https://raw.githubusercontent.com/dimonovdd/Xamarin.Forms.Icons8.LineAwesome/main/SampleImages/sample.jpg)
 
